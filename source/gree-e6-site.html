@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>رمز E6 في مكيف جري: المعنى والحل</title>
+<meta name="description" content="رمز E6 في مكيفات جري يعني انقطاع التواصل بين الوحدة الداخلية والخارجية. الخطوات الآمنة، الأسباب مرتبة، وما تقوله للفني.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alexandria:wght@500;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: one reading column; the unit's own display panel opens the page, then answer → safe steps → causes → technician. */
+:root {
+  --bg: #EDF2F4;
+  --surface: #FFFFFF;
+  --ink: #12262E;
+  --muted: #566B72;
+  --line: #D3DEE2;
+  --accent: #0B6E82;
+  --panel: #0C161A;
+  --led: #FF9F1C;
+  --led-off: #2A3940;
+  --ok: #1F7A4D;
+  --ok-bg: #E2F3EA;
+  --stop: #B3361F;
+  --stop-bg: #FBE7E2;
+  --note-bg: #FFF4DC;
+  --note-ink: #6B4A00;
+  --display: "Alexandria", "IBM Plex Sans Arabic", "Segoe UI", Tahoma, sans-serif;
+  --body: "IBM Plex Sans Arabic", "Segoe UI", Tahoma, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1B20; --surface: #17262C; --ink: #E4EEF1; --muted: #9BB0B7; --line: #2A3E46;
+    --accent: #5CC8DC; --panel: #060D10; --led: #FFAE3B; --led-off: #1D2A30;
+    --ok: #6FD3A0; --ok-bg: #143326; --stop: #FF9A85; --stop-bg: #3B1C16;
+    --note-bg: #33290F; --note-ink: #F2D48A; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1B20; --surface: #17262C; --ink: #E4EEF1; --muted: #9BB0B7; --line: #2A3E46;
+  --accent: #5CC8DC; --panel: #060D10; --led: #FFAE3B; --led-off: #1D2A30;
+  --ok: #6FD3A0; --ok-bg: #143326; --stop: #FF9A85; --stop-bg: #3B1C16;
+  --note-bg: #33290F; --note-ink: #F2D48A; color-scheme: dark;
+}
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 17px; line-height: 1.85; }
+.page { max-width: 44rem; margin-inline: auto; padding-inline: 20px; padding-block: 28px 64px; display: flex; flex-direction: column; gap: 36px; }
+.crumbs { font-size: 14px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px; }
+.crumbs b { color: var(--ink); font-weight: 500; }
+header { display: flex; flex-direction: column; gap: 20px; }
+h1 { font-family: var(--display); font-weight: 700; font-size: clamp(1.6rem, 5vw, 2.3rem); line-height: 1.4; margin: 0; text-wrap: balance; }
+h2 { font-family: var(--display); font-weight: 700; font-size: 1.3rem; line-height: 1.5; margin: 0; text-wrap: balance; }
+h3 { font-size: 1.05rem; font-weight: 600; margin: 0; }
+p { margin: 0; }
+section { display: flex; flex-direction: column; gap: 16px; }
+.unit { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 22px 24px; display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
+.unit svg { width: 132px; height: auto; flex: none; filter: drop-shadow(0 0 10px color-mix(in srgb, var(--led) 45%, transparent)); }
+.unit p { color: #C9D6DA; font-size: 15px; min-width: 0; flex: 1 1 14rem; }
+.unit strong { color: #FFFFFF; font-weight: 600; }
+.answer { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 22px; display: flex; flex-direction: column; gap: 14px; }
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)); gap: 14px; margin: 0; }
+.facts div { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.facts dt { font-size: 13px; color: var(--muted); }
+.facts dd { margin: 0; font-weight: 600; }
+.steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 18px; counter-reset: s; }
+.steps li { counter-increment: s; display: grid; grid-template-columns: 2.2rem 1fr; gap: 14px; }
+.steps li::before { content: counter(s); font-family: var(--mono); font-size: 15px; width: 2.2rem; height: 2.2rem; border-radius: 50%; border: 1.5px solid var(--accent); color: var(--accent); display: grid; place-items: center; }
+.steps div { min-width: 0; display: flex; flex-direction: column; gap: 4px; }
+.tag { display: inline-block; font-size: 13px; font-weight: 600; padding: 2px 10px; border-radius: 99px; }
+.tag.ok { background: var(--ok-bg); color: var(--ok); }
+.tag.stop { background: var(--stop-bg); color: var(--stop); }
+.stopbox { background: var(--stop-bg); color: var(--stop); border-radius: 10px; padding: 14px 18px; font-weight: 500; }
+.causes { display: flex; flex-direction: column; }
+.cause { padding-block: 16px; border-top: 1px solid var(--line); display: flex; flex-direction: column; gap: 6px; }
+.cause:last-child { border-bottom: 1px solid var(--line); }
+.cause header { flex-direction: row; flex-wrap: wrap; align-items: center; gap: 10px; }
+.cause p { color: var(--muted); }
+.script { background: var(--surface); border: 1px dashed var(--line); border-radius: 10px; padding: 18px; display: flex; flex-direction: column; gap: 12px; }
+.script blockquote { margin: 0; font-weight: 500; }
+button { font: inherit; font-size: 15px; font-weight: 600; align-self: flex-start; background: var(--accent); color: var(--bg); border: 0; border-radius: 8px; padding: 8px 18px; cursor: pointer; }
+button:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px solid var(--led); outline-offset: 3px; }
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 16px; }
+th, td { text-align: start; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+th { font-size: 13px; color: var(--muted); font-weight: 500; }
+td.na { color: var(--muted); }
+.note { background: var(--note-bg); color: var(--note-ink); border-radius: 10px; padding: 14px 18px; font-size: 15px; }
+details { border-top: 1px solid var(--line); padding-block: 14px; }
+details:last-of-type { border-bottom: 1px solid var(--line); }
+summary { cursor: pointer; font-weight: 600; }
+details p { margin-top: 8px; color: var(--muted); }
+a { color: var(--accent); }
+.sources { font-size: 15px; margin: 0; padding-inline-start: 1.2rem; display: flex; flex-direction: column; gap: 6px; }
+.sources li { overflow-wrap: anywhere; }
+code { font-family: var(--mono); font-size: 0.95em; direction: ltr; unicode-bidi: isolate; }
+</style>
+</head>
+<body>
+<div class="page" dir="rtl" lang="ar">
+  <header>
+    <nav class="crumbs" aria-label="المسار"><a href="../index.html">الرئيسية</a><span>‹</span><a href="index.html">مكيفات</a><span>‹</span><a href="gree.html">جري</a><span>‹</span><b>رمز E6</b></nav>
+    <h1>رمز <code>E6</code> في مكيف جري: الوحدة الداخلية لا تتواصل مع الخارجية</h1>
+    <div class="unit">
+      <svg viewBox="0 0 150 110" role="img" aria-label="شاشة المكيف تعرض E6">
+        <g fill="var(--led-off)">
+          <rect x="50" y="10" width="10" height="40" rx="3"/><rect x="50" y="60" width="10" height="40" rx="3"/>
+          <rect x="140" y="10" width="10" height="40" rx="3"/>
+        </g>
+        <g fill="var(--led)">
+          <rect x="10" y="0" width="40" height="10" rx="3"/><rect x="0" y="10" width="10" height="40" rx="3"/>
+          <rect x="10" y="50" width="40" height="10" rx="3"/><rect x="0" y="60" width="10" height="40" rx="3"/>
+          <rect x="10" y="100" width="40" height="10" rx="3"/>
+          <rect x="100" y="0" width="40" height="10" rx="3"/><rect x="90" y="10" width="10" height="40" rx="3"/>
+          <rect x="100" y="50" width="40" height="10" rx="3"/><rect x="90" y="60" width="10" height="40" rx="3"/>
+          <rect x="140" y="60" width="10" height="40" rx="3"/><rect x="100" y="100" width="40" height="10" rx="3"/>
+        </g>
+      </svg>
+      <p><strong>هذا ما تراه على شاشة الوحدة الداخلية.</strong> المكيف يتوقف عن التبريد، وقد يعمل دقائق ثم يعود الرمز.</p>
+    </div>
+  </header>
+
+  <section class="answer" aria-labelledby="a">
+    <h2 id="a">الجواب المختصر</h2>
+    <p>الوحدة الداخلية والخارجية تتبادلان إشارة عبر سلك بينهما. عند ظهور <code>E6</code> فهذه الإشارة مقطوعة. السبب في أغلب الحالات سلك التوصيل نفسه، لا قطعة تالفة داخل المكيف.</p>
+    <dl class="facts">
+      <div><dt>هل هو خطير؟</dt><dd>لا، لكن المكيف لن يبرّد</dd></div>
+      <div><dt>هل يزول وحده؟</dt><dd>لا، يبقى حتى يُعالج السبب</dd></div>
+      <div><dt>هل أصلحه بنفسي؟</dt><dd>جرّب الخطوات الأربع، ثم فني</dd></div>
+    </dl>
+  </section>
+
+  <section aria-labelledby="s">
+    <h2 id="s">ما تفعله الآن، بالترتيب</h2>
+    <ol class="steps">
+      <li><div><h3>افصل الكهرباء خمس دقائق ثم أعد التشغيل</h3><p>من القاطع في لوحة الكهرباء، لا من الريموت. إن عاد الرمز فالمشكلة قائمة، وتكرار الفصل لن يحلّها.</p><span><span class="tag ok">آمن لك</span></span></div></li>
+      <li><div><h3>تأكد أن الوحدة الخارجية تصلها كهرباء</h3><p>بعض التمديدات تضع للوحدة الخارجية قاطعاً مستقلاً. انظر هل هو مرفوع، وهل مروحة الوحدة الخارجية تدور عند التشغيل.</p><span><span class="tag ok">آمن لك</span></span></div></li>
+      <li><div><h3>تذكّر متى بدأ الرمز</h3><p>بعد تركيب جديد أو نقل المكيف؟ الأرجح خطأ في توصيل الأسلاك. بعد انقطاع كهرباء أو عاصفة رعدية؟ يزداد احتمال تلف لوحة التحكم. هذه المعلومة تختصر على الفني نصف التشخيص.</p><span><span class="tag ok">آمن لك</span></span></div></li>
+      <li><div><h3>افحص السلك بالنظر فقط</h3><p>تتبّع الكيبل الظاهر بين الوحدتين: قطع، حرق، قرض قوارض، أو وصلة بشريط لاصق في منتصفه. لا تفتح أي غطاء.</p><span><span class="tag ok">آمن لك</span></span></div></li>
+    </ol>
+    <p class="stopbox">توقف هنا. فتح غطاء التوصيلات أو قياس الأسلاك يعني التعامل مع جهد كهربائي حيّ، وهذا عمل الفني.</p>
+  </section>
+
+  <section aria-labelledby="c">
+    <h2 id="c">الأسباب، من الأرجح إلى الأقل</h2>
+    <div class="causes">
+      <div class="cause"><header><h3>سلك خاطئ أو سلك موصول من قطعتين</h3><span class="tag stop">الأكثر شيوعاً</span></header><p>بحسب الفريق الفني لشركة جري، هذا يسبب انقطاع التواصل أكثر من أي قطعة معطوبة. يحدث حين يُستخدم كيبل غير مناسب أو يُطوَّل الكيبل بوصلة.</p></div>
+      <div class="cause"><header><h3>أطراف مرتخية أو أسلاك معكوسة الترتيب</h3></header><p>برغي غير مشدود في لوحة التوصيل، أو ترتيب الأسلاك في الوحدة الداخلية يخالف الخارجية.</p></div>
+      <div class="cause"><header><h3>كيبل تالف</h3></header><p>تآكل من الشمس والحرارة، أو قرض، أو انثناء حاد داخل الجدار.</p></div>
+      <div class="cause"><header><h3>مشكلة تأريض أو تشويش كهربائي</h3></header><p>تأريض ضعيف يربك الإشارة بين الوحدتين.</p></div>
+      <div class="cause"><header><h3>تلف لوحة التحكم الداخلية أو الخارجية</h3></header><p>يُشتبه به بعد استبعاد كل ما سبق، خصوصاً إن بدأ الرمز بعد تذبذب في الكهرباء.</p></div>
+      <div class="cause"><header><h3>ترتيب الأطوار معكوس</h3></header><p>في المكيفات التي تعمل على كهرباء ثلاثية الأطوار (380 فولت) فقط.</p></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="t">
+    <h2 id="t">ما تقوله للفني</h2>
+    <div class="script">
+      <blockquote id="msg">المكيف جري سبليت ويعرض الرمز E6. فصلت الكهرباء من القاطع وأعدت التشغيل وعاد الرمز. أريد فحص كيبل التواصل بين الوحدتين وأطراف التوصيل قبل تغيير أي لوحة.</blockquote>
+      <button type="button" id="copy">انسخ الرسالة</button>
+    </div>
+    <p>الجملة الأخيرة مهمة: استبدال اللوحة هو الإصلاح الأغلى، والسبب الأشيع أرخص منه بكثير.</p>
+  </section>
+
+  <section aria-labelledby="q">
+    <h2 id="q">أسئلة متكررة</h2>
+    <div>
+      <details><summary>الرمز يظهر ويختفي، هل هذا طبيعي؟</summary><p>نعم في البداية. العطل قد يكون متقطعاً أول الأمر، كطرف مرتخٍ يلامس أحياناً، ثم يصير دائماً.</p></details>
+      <details><summary>هل أستطيع مسح الرمز من الريموت؟</summary><p>لا. الرمز لا يُمسح ولا يُصفَّر حتى يُحلّ السبب نفسه.</p></details>
+      <details><summary>هل يعني E6 أن الفريون ناقص؟</summary><p>لا. نقص الفريون له رمز آخر في مكيفات جري هو <code>F0</code>.</p></details>
+    </div>
+  </section>
+
+  <section aria-labelledby="r">
+    <h2 id="r">المصادر</h2>
+    <ul class="sources">
+      <li><a href="https://www.greecomfort.com/news-and-events/gree-mini-split-e6-error-code-troubleshooting-guide/">GREE Comfort: دليل تشخيص رمز E6</a> (معنى الرمز، السبب الأشيع، عدم زوال الرمز دون إصلاح)</li>
+      <li><a href="https://www.beaconsaves.com/blog/gree-mini-split-e6-error-code">Beacon: رمز E6 في مكيفات جري</a> (أثر انقطاع الكهرباء، الظهور المتقطع، التأريض واللوحات)</li>
+      <li><a href="https://www.scribd.com/document/717173518/Error-Codes">قائمة رموز أعطال جري</a> (ترتيب الأطوار في أنظمة 380 فولت)</li>
+      <li><a href="https://japanelectronics.com.pk/blogs/all/error-code-list-of-gree-ac-in-2024">Japan Electronics: قائمة رموز جري</a> (معنى الرمز F0)</li>
+    </ul>
+  </section>
+</div>
+
+<script>
+document.documentElement.lang = "ar";
+document.documentElement.dir = "rtl";
+var btn = document.getElementById("copy"), msg = document.getElementById("msg");
+btn.addEventListener("click", function () {
+  function selectIt() {
+    var r = document.createRange(); r.selectNodeContents(msg);
+    var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+    btn.textContent = "النص محدد، انسخه يدوياً";
+  }
+  try {
+    navigator.clipboard.writeText(msg.textContent).then(function () { btn.textContent = "نُسخت"; }, selectIt);
+  } catch (e) { selectIt(); }
+});
+</script>
+</body>
+</html>

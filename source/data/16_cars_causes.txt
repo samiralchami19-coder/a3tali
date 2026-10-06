@@ -1,0 +1,25 @@
+#YOUCANIC (Mercedes)|https://www.youcanic.com/mercedes-benz-stop-vehicle-leave-engine-running
+#MechanicBase (BMW Drivetrain)|https://mechanicbase.com/troubleshooting/bmw-drivetrain-malfunction/
+#YOUCANIC (BMW Chassis)|https://www.youcanic.com/bmw-chassis-stabilization-malfunction-drive-moderately/
+#MechanicBase (Mercedes)|https://mechanicbase.com/warning-lights/stop-vehicle-leave-engine-running-mercedes/
+#MechanicBase (StabiliTrak)|https://mechanicbase.com/troubleshooting/service-stabilitrak-message/
+#SlashGear (StabiliTrak)|https://www.slashgear.com/1653790/service-stabilitrak-light-car-meaning
+#MechanicBase (Service Shifter)|https://mechanicbase.com/warning-lights/service-shifter-jeep-cherokee/
+#VEHQ (Service 4WD)|https://vehq.com/how-to-reset-a-service-4wd-light-in-a-jeep-grand-cherokee/
+#Auto Insider (HDC)|https://theautoinsiderblog.com/land-rover-hdc-fault-system-not-available/
+#Monitor (Restricted Performance)|https://www.monitor.co.ug/uganda/business/auto/why-does-my-car-indicate-restricted-performance--3257754
+#Klavkarr (EPC)|https://www.klavkarr.com/blog/44-epc-light-volkswagen
+@سيارة (رسائل الشاشة)|BMW
+Drivetrain Malfunction|خلل في منظومة الدفع، والسيارة تدخل وضع الحماية|بواجي متسخة، كويلات إشعال تالفة، مضخة وقود معطلة، بخاخات ضعيفة، دبة تالفة|T|1|MechanicBase (BMW Drivetrain)|المصدر لا يحدد موديلات|أكمل بحذر إلى أقرب ورشة
+Chassis Stabilization Malfunction|خلل في نظام ثبات الشاسيه|حساس الانحراف أو التسارع، وحدة DSC، أسلاك، زيت فرامل منخفض، حساس سرعة عجلة، بطارية ضعيفة|T|1|YOUCANIC (BMW Chassis)|المصدر ينصح بإطفاء المحرك خمس دقائق ثم إعادة التشغيل|أكمل بحذر إلى أقرب ورشة
+@سيارة (رسائل الشاشة)|مرسيدس
+Stop Vehicle Leave Engine Running|جهد البطارية منخفض، قف واترك المحرك يعمل لتُشحن|بطارية فارغة، بطارية رئيسية أو مساعدة ضعيفة، دينمو معطل، أطراف متآكلة|U|2|MechanicBase (Mercedes)، YOUCANIC (Mercedes)|تظهر في موديلات 2015 وما بعدها مثل C300 وE300 وGLA|توقف فوراً
+@سيارة (رسائل الشاشة)|شيفروليه وGMC
+Service StabiliTrak|خلل في نظام الثبات والتماسك|حساس سرعة العجلة أو ABS، حساس زاوية المقود، حساس بوابة الخانق، تفويت في المحرك، مفتاح الفرامل، زيت فرامل منخفض|T|2|MechanicBase (StabiliTrak)، SlashGear (StabiliTrak)|السيارة تُقاد غالباً لكن بلا نظام ثبات|أكمل بحذر إلى أقرب ورشة
+@سيارة (رسائل الشاشة)|جيب ودودج
+Service Shifter|خلل في ناقل الغيارات الإلكتروني|إلكترونيات عصا القير، برنامج يحتاج تحديثاً، أسلاك أو فيوز، مفتاح ضوء الفرامل|T|1|MechanicBase (Service Shifter)|في Cherokee 2014 استدعاءات خطرة متعلقة بانتقال القير إلى N. تحقق من الاستدعاءات|أكمل بحذر إلى أقرب ورشة
+Service 4WD System|خلل في نظام الدفع الرباعي|خلل برمجي، نقلة غيار لم تكتمل، سخونة علبة التوزيع، توصيلات متآكلة|T|1|VEHQ (Service 4WD)|Grand Cherokee من 2005|أكمل بحذر إلى أقرب ورشة
+@سيارة (رسائل الشاشة)|لاند روفر
+Restricted Performance|السيارة في وضع الحماية بقدرة مخفّضة|خلل في نظام السحب أو الانبعاثات أو الوقود أو الإشعال|T|1|Monitor (Restricted Performance)|Range Rover Sport 2012|أكمل بحذر إلى أقرب ورشة
+@سيارة (رسائل الشاشة)|فولكس فاجن
+EPC|خلل في التحكم الإلكتروني بقدرة المحرك|حساس دواسة الوقود، بوابة الخانق متسخة أو عالقة، حساس دواسة الفرامل، بواجي أو كويلات، حساس الكرنك|T|1|Klavkarr (EPC)|Golf وPolo وPassat وTiguan. إن صاحبها ضعف في القدرة فتوقف في أقرب فرصة|أكمل بحذر إلى أقرب ورشة

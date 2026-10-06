@@ -1,0 +1,336 @@
+#Flexa Systems (Yaskawa A1000)|https://flexa-systems.com/blogs/news/yaskawa-a1000-fault-codes-complete-guide
+#PLC Exchange (PowerFlex 525)|https://plcexchange.net/how-to-powerflex-525-fault-codes/
+#SelectSupport (Fronius Symo)|https://selectsupport.helpdocsite.com/fronius/fronius-symo-fault-codes
+#SolaX الرسمي (مدونة الشركة)|https://www.solaxpower.com/blogs/solar-inverter-fault-codes.html
+#Victron الرسمي (VE.Bus)|https://www.victronenergy.com/live/ve.bus:ve.bus_error_codes
+#GCR Electrical (Fronius)|https://gcrelectricalsystems.com.au/resources/fronius-inverter-fault-codes/
+#Greener Housing (SolaX)|https://www.greenerhousingsolutions.com.au/solax-inverter-error-codes/
+#Ultimate Systems (Felicity)|https://blog.usro.net/2025/06/felicity-inverter-error-codes-list-troubleshooting/
+#Fabrico (Yaskawa)|https://www.fabrico.io/blog/yaskawa-vfd-fault-codes/
+#Fuji الرسمي (FRENIC-HVAC)|https://www.fujielectric.com/products/inverter/frenic-hvac/download/_pr/box/doc/TROUBLESHOOTING.pdf
+#Fabrico (PowerFlex 525)|https://www.fabrico.io/blog/powerflex-525-fault-codes/
+#Dattech (INVT GD200A)|https://dattech.com.vn/en/huong-dan-khac-phuc-mot-so-loi-o-bien-tan-invt-gd200a/
+#Invertek الرسمي (Optidrive)|https://www.invertekdrives.com/downloads/Trouble shooting based on fault code displayed plus general fault codes.pdf
+@انفرتر شمسي منزلي|Victron
+1|الجهاز انطفأ بسبب عطل في طور آخر|افحص أضواء الطور المتعطل: حمل زائد أو بطارية منخفضة أو حرارة|U|O|Victron الرسمي (VE.Bus)|رموز MultiPlus وQuattro وEasySolar
+2|خلط بروتوكول MK2 القديم والجديد في النظام|تُحدَّث كل البرامج الثابتة|T|O|Victron الرسمي (VE.Bus)
+3|لم يُعثر على كل الأجهزة المتوقعة|افحص الكيبلات والإعداد|U|O|Victron الرسمي (VE.Bus)
+4|لم يُعثر على أي جهاز آخر|افحص كيبلات التواصل|U|O|Victron الرسمي (VE.Bus)
+5|جهد زائد على مخرج AC|افحص توصيل AC في الوحدات التابعة|T|O|Victron الرسمي (VE.Bus)
+6|خطأ في برنامج DDC|حدّث البرنامج الثابت وأعد الإعداد|T|O|Victron الرسمي (VE.Bus)
+7|جهاز خارجي موصول ويحتاج مساعد إعداد|اضبط Assistant المناسب|T|O|Victron الرسمي (VE.Bus)
+8|فشل اختبار ريليه التأريض|افحص التوصيل والمحايد|T|O|Victron الرسمي (VE.Bus)
+10|مشكلة تزامن وقت النظام|أعد تشغيل النظام وافحص فيوزات DC|U|O|Victron الرسمي (VE.Bus)
+11|خلل اختبار الريليه|خطأ تركيب أو عطل ريليه. افحص المحايد|T|O|Victron الرسمي (VE.Bus)
+12|عدم تطابق الإعداد مع المعالج الثاني|أعد إرسال الإعداد كاملاً|T|O|Victron الرسمي (VE.Bus)
+14|الجهاز لا يستطيع إرسال البيانات|افحص كيبلات التواصل من القصر|T|O|Victron الرسمي (VE.Bus)
+15|خطأ في تركيبة VE.Bus|حدّث كل البرامج الثابتة|T|O|Victron الرسمي (VE.Bus)
+16|دونجل VE.Bus مفقود|حدّث البرنامج الثابت|T|O|Victron الرسمي (VE.Bus)
+17|الطور الرئيسي مفقود|افحص كيبلات الشبكة|U|O|Victron الرسمي (VE.Bus)
+18|جهد AC زائد على مخرج التابع وهو مطفأ|تأكد أن أسلاك AC غير معكوسة|T|O|Victron الرسمي (VE.Bus)
+19|الوحدة التابعة بلا دخل AC|وصّل دخل AC لكل الوحدات|T|O|Victron الرسمي (VE.Bus)
+20|عدم تطابق الإعداد||T|O|Victron الرسمي (VE.Bus)
+22|الجهاز لا يصلح كوحدة تابعة|موديل قديم يُستبدل|T|O|Victron الرسمي (VE.Bus)
+24|تفعّلت حماية نظام التحويل|خفّف الحمل، أو ريليه معطل|T|O|Victron الرسمي (VE.Bus)
+25|إعداد VE.Bus غير متوافق|حدّث البرنامج الثابت|T|O|Victron الرسمي (VE.Bus)
+26|خطأ داخلي|أعد تشغيل النظام|U|O|Victron الرسمي (VE.Bus)
+30|خطأ وهمي، رسالة VE.Bus تالفة|افحص كيبلات RJ45|U|O|Victron الرسمي (VE.Bus)
+31|خطأ وهمي، رسالة VE.Bus تالفة|افحص كيبلات RJ45|U|O|Victron الرسمي (VE.Bus)
+128|مُنع الاتصال لفشل اختبار الريليه||T|O|Victron الرسمي (VE.Bus)
+@انفرتر شمسي منزلي|Fronius
+102|جهد AC مرتفع||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)|رموز الحالة لسلسلتَي Primo وSymo
+103|جهد AC منخفض||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+105|تردد AC مرتفع||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+106|تردد AC منخفض||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+107|شبكة AC خارج الحدود المسموحة||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+108|كشف تشغيل معزول عن الشبكة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+112|خطأ RCMU||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+301|تيار زائد AC||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+302|تيار زائد DC||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+303|سخونة وحدة الطاقة||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+304|الحرارة الداخلية مرتفعة||U|1|GCR Electrical (Fronius)
+306|خرج الألواح منخفض||N|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+307|جهد الألواح منخفض||N|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+308|جهد زائد في الدائرة الوسيطة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+309|جهد دخل DC مرتفع على MPPT 1||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+313|جهد دخل DC مرتفع على MPPT 2||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+401|لا تواصل مع وحدة الطاقة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+406|عطل حساس حرارة وحدة الطاقة||T|1|GCR Electrical (Fronius)
+407|عطل حساس الحرارة الداخلي||T|1|GCR Electrical (Fronius)
+408|كشف حقن DC في الشبكة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+412|وضع الجهد الثابت مضبوط خطأ||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+415|تفعّل فصل الأمان||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+416|لا تواصل بين وحدة الطاقة والتحكم||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+417|مشكلة معرّف العتاد||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+419|تعارض المعرّف الفريد||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+421|خطأ نطاق HID||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+425|لا تواصل مع وحدة الطاقة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+426|عطل عتاد محتمل||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+427|عطل عتاد محتمل||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+428|عطل عتاد محتمل||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+431|مشكلة برمجية||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+436|عدم توافق وظيفي بين اللوحات||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+437|مشكلة في وحدة الطاقة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+438|عدم توافق وظيفي بين اللوحات||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+443|جهد الدائرة الوسيطة منخفض أو غير متماثل||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+445|إعدادات قيم حدّية غير صالحة||T|X|GCR Electrical (Fronius)|SelectSupport (Fronius Symo) يعرّفه: Compatibility error
+447|خلل عزل||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+448|المحايد غير موصول||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+450|تعذّر إيجاد Guard||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+452|خطأ في الذاكرة||T|X|GCR Electrical (Fronius)|SelectSupport (Fronius Symo) يعرّفه: Communication error between the processors
+453|خطأ جهد شبكة قصير الأمد||U|X|GCR Electrical (Fronius)|SelectSupport (Fronius Symo) يعرّفه: Grid voltage and power stage set are incompatible
+454|خطأ تردد شبكة قصير الأمد||U|X|GCR Electrical (Fronius)|SelectSupport (Fronius Symo) يعرّفه: Grid frequency and power stage set are incompatible
+456|وظيفة منع العزل لا تعمل صحيحاً||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+457|ريليه الشبكة ملتصق||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+459|خطأ تسجيل إشارة اختبار العزل||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+460|مرجع جهد DSP خارج السماحية||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+461|خلل ذاكرة بيانات DSP||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+462|خطأ في مراقبة حقن DC||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+463|قطبية AC معكوسة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+474|عطل حساس RCMU||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+475|خلل أرضي في الألواح||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+476|جهد تغذية المشغّل منخفض||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+480|عدم توافق وظيفي بين اللوحات||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+481|عدم توافق وظيفي بين اللوحات||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+482|الإقلاع لم يكتمل||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+483|جهد UDC الثابت على MPP2 خارج الحدود||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+485|ذاكرة إرسال CAN ممتلئة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+502|خطأ عزل في الألواح||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+509|لم تُحقن طاقة في الشبكة خلال 24 ساعة|افحص الألواح من الظل أو الثلج أو الأوساخ|U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+515|تعذّر التواصل مع الفلتر||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+516|لا تواصل مع وحدة التخزين||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+517|تخفيض القدرة بسبب الحرارة||N|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+522|جهد دخل DC1 منخفض||N|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+523|جهد دخل DC2 منخفض||N|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+558|عدم توافق وظيفي بين اللوحات||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+560|تخفيض القدرة بسبب ارتفاع التردد||N|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+566|كاشف القوس مطفأ||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+567|تخفيض القدرة بحسب جهد الشبكة مفعَّل||N|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+705|تعارض في ضبط رقم الانفرتر||T|X|GCR Electrical (Fronius)|SelectSupport (Fronius Symo) يعرّفه: internal processor status
+721|الذاكرة EEPROM أُعيدت تهيئتها أو معطلة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+731|ذاكرة USB غير مدعومة||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+732|تيار زائد على ذاكرة USB||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+733|لا ذاكرة USB موصولة||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+734|ملف التحديث غير موجود||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+735|ملف التحديث لا يطابق الجهاز||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+736|خطأ قراءة أو كتابة||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+738|تعذّر حفظ ملف السجل||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+743|خطأ أثناء التحديث||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+745|ملف التحديث تالف||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+751|فُقد الوقت||U|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+752|خطأ تواصل وحدة الساعة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+757|عطل عتاد في وحدة الساعة||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+758|وحدة الساعة في وضع الطوارئ||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+766|تفعّل تخفيض قدرة الطوارئ||T|2|GCR Electrical (Fronius)، SelectSupport (Fronius Symo)
+@انفرتر شمسي منزلي|SolaX
+SPI Fault|خلل تواصل SPI||T|1|Greener Housing (SolaX)|رسائل نصية لا رموز
+SCI Fault|خلل تواصل SCI|أطفئ النظام وأعد تشغيله|U|1|Greener Housing (SolaX)
+CAN1 Fault|خلل تواصل CAN||T|1|Greener Housing (SolaX)
+PV Config Fault|خلل إعداد توصيل الألواح|أعد ضبط توصيل الألواح|T|1|Greener Housing (SolaX)
+Inv EEPROM Fault|خلل ذاكرة الانفرتر|أطفئ النظام وأعد تشغيله|U|1|Greener Housing (SolaX)
+Relay Fault|خلل الريليه|أطفئ النظام وأعد تشغيله|U|1|Greener Housing (SolaX)
+Sample Fault|خلل دائرة القياس|أطفئ النظام وأعد تشغيله|U|1|Greener Housing (SolaX)
+RCD Fault|خلل جهاز تيار التسريب|أطفئ النظام وأعد تشغيله|U|1|Greener Housing (SolaX)
+Fan1 Fault|عطل المروحة 1||T|1|Greener Housing (SolaX)
+Fan2 Fault|عطل المروحة 2||T|1|Greener Housing (SolaX)
+AC HCT Fault|خلل حساس تيار AC||T|1|Greener Housing (SolaX)
+OverLoad Fault|حمل زائد في وضع الطوارئ EPS|أطفئ الأجهزة عالية القدرة|U|1|Greener Housing (SolaX)
+EPS OCP Fault|تيار زائد في وضع الطوارئ EPS|خفّف الحمل|U|1|Greener Housing (SolaX)
+DCI Device Fault|خلل جهاز DCI||T|1|Greener Housing (SolaX)
+EPS Relay Fault|خلل ريليه EPS||T|1|Greener Housing (SolaX)
+TZ Protect Fault|خلل تيار زائد|انتظر ثم أعد التشغيل|U|O|Greener Housing (SolaX)، SolaX الرسمي (مدونة الشركة)
+Grid Lost Fault|انقطع الاتصال بالشبكة|انتظر عودة الشبكة|U|O|Greener Housing (SolaX)، SolaX الرسمي (مدونة الشركة)
+Grid Volt Fault|جهد الشبكة خارج الحد|انتظر عودة الشبكة لطبيعتها|U|O|Greener Housing (SolaX)، SolaX الرسمي (مدونة الشركة)
+Grid Freq Fault|تردد الشبكة خارج الحد|انتظر عودة الشبكة لطبيعتها|U|O|Greener Housing (SolaX)، SolaX الرسمي (مدونة الشركة)
+PLL Lost Fault|جودة الشبكة ضعيفة||U|1|Greener Housing (SolaX)
+Bus Volt Fault|جهد الخط الداخلي غير طبيعي|أطفئ النظام وأعد تشغيله|U|1|Greener Housing (SolaX)
+AC5M Volt Fault|جهد الشبكة مرتفع لخمس دقائق||U|1|Greener Housing (SolaX)
+AC10M Volt Fault|جهد الشبكة مرتفع لعشر دقائق||U|1|Greener Housing (SolaX)
+Inv OCP Fault|حماية تيار زائد في الانفرتر||T|1|Greener Housing (SolaX)
+PV Volt Fault|خلل جهد الألواح||T|O|Greener Housing (SolaX)، SolaX الرسمي (مدونة الشركة)
+Isolation Fault|خلل عزل||T|O|Greener Housing (SolaX)، SolaX الرسمي (مدونة الشركة)
+Temp Over Fault|الحرارة تتجاوز الحد|افحص المروحة وخفّف الحرارة|U|1|Greener Housing (SolaX)
+Fan1 Speed Fault|سرعة المروحة 1 غير طبيعية|نظفها من الغبار|U|1|Greener Housing (SolaX)
+Fan2 Speed Fault|سرعة المروحة 2 غير طبيعية|نظفها من الغبار|U|1|Greener Housing (SolaX)
+C1 Can Fault|خلل تواصل CAN مع البطارية|أعد توصيل كيبل الشاحن|U|1|Greener Housing (SolaX)
+C1 Temp High|سخونة شاحن البطارية||U|1|Greener Housing (SolaX)
+C1 FAN Fault|عطل مروحة شاحن البطارية||T|1|Greener Housing (SolaX)
+C1 TZ Fault|خلل حماية شاحن البطارية||T|1|Greener Housing (SolaX)
+C1 EEPROM Fault|خلل ذاكرة شاحن البطارية||T|1|Greener Housing (SolaX)
+C1 HCT1 Fault|خلل قياس تيار الشاحن||T|1|Greener Housing (SolaX)
+C1 HCT2 Fault|خلل قياس تيار الشاحن||T|1|Greener Housing (SolaX)
+C1 Bus OVP|جهد زائد في خط شاحن البطارية||T|1|Greener Housing (SolaX)
+C1 Temp Low|حرارة شاحن البطارية منخفضة||T|1|Greener Housing (SolaX)
+C1 Boost OVP|جهد زائد في رفع الشاحن||T|1|Greener Housing (SolaX)
+C1 Bat OVP|جهد البطارية زائد||T|1|Greener Housing (SolaX)
+C1 Charger OCP|تيار زائد في شاحن البطارية||T|1|Greener Housing (SolaX)
+C1 Boost OCP|تيار زائد في رفع الشاحن||T|1|Greener Housing (SolaX)
+CT Fault|توصيل CT أو العدّاد ضعيف|افحص توصيل CT أو العدّاد|U|1|Greener Housing (SolaX)
+RC Fault|خلل حماية DCI||T|1|Greener Housing (SolaX)
+DCI OCP Fault|خلل حماية تيار DCI||T|1|Greener Housing (SolaX)
+Other device Fault|خلل في جهاز آخر||T|1|Greener Housing (SolaX)
+SW OCP Fault|كشف تيار زائد برمجياً||T|1|Greener Housing (SolaX)
+DM9000 Fault|خلل DSP الشبكة||T|1|Greener Housing (SolaX)
+RTC Fault|خلل الساعة RTC||T|1|Greener Housing (SolaX)
+Mgr EEPROM Fault|خلل ذاكرة وحدة الإدارة||T|1|Greener Housing (SolaX)
+Mgr CAN Fault|خلل CAN في وحدة الإدارة||T|1|Greener Housing (SolaX)
+C1 SPI Fault|خلل تواصل الشاحن||T|1|Greener Housing (SolaX)
+C1 TZ|كشف تيار زائد في الشاحن||T|1|Greener Housing (SolaX)
+C1 sample Fault|خلل قياس الشاحن||T|1|Greener Housing (SolaX)
+Bat Volt Fault|جهد البطارية خارج المدى الطبيعي|افحص حالة البطارية|T|O|SolaX الرسمي (مدونة الشركة)|رقمه IE 07
+Bat Con Dir Fault|اتجاه توصيل البطارية قد يكون خاطئاً|لا تعدّل الكيابل بنفسك واتصل بالمركِّب|T|O|SolaX الرسمي (مدونة الشركة)|رقمه IE 15
+EPS Overload Fault|الأحمال تتجاوز قدرة وضع الطوارئ EPS|خفّف الأحمال العالية|U|O|SolaX الرسمي (مدونة الشركة)|رقمه IE 16
+@انفرتر شمسي منزلي|Felicity
+E01|جهد البطارية فوق الحد الأقصى||T|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E02|جهد البطارية تحت الحد الأدنى|اشحن البطاريات|U|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E03|قصر مفاجئ في مخرج AC|افحص الأحمال وأسلاك AC|U|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E04|الحمل يتجاوز قدرة الانفرتر|خفّف الحمل وأعد التشغيل|U|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E05|سخونة الانفرتر|حسّن التهوية وخفّف الحمل|U|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E06|توصيل أقطاب البطارية معكوس|صحّح القطبية فوراً|T|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E07|دخل الألواح يتجاوز حد الانفرتر|قلّل الألواح أو أعد توصيلها|T|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E08|ضوء ضعيف أو توصيل ألواح مرتخٍ||U|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E09|خلل في المتحكم أو تشويش إشارة|أعد تشغيل الانفرتر|U|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E10|ريليه معطل أو ملتصق||T|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E11|تذبذب جهد أو خطأ طور|افحص دخل الشبكة|U|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E12|تلف البرنامج الثابت||T|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+E13|عطل دائرة داخلي||T|1|Ultimate Systems (Felicity)|المصدر الوحيد مدونة غير رسمية، ووجدتُ قائمتها لماركة أخرى تخالف المصدر الأوثق. لا يُنشر قبل مطابقته مع كتيّب الجهاز
+@انفرتر صناعي|Yaskawa
+OC|تيار زائد في الخرج|قصر أو انحشار أو زمن تسارع قصير|T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)|سلسلتا V1000 وA1000
+GF|تسريب أرضي في الخرج|تلف عزل المحرك أو الكيبل|T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)
+OV|جهد زائد في خط DC|تباطؤ سريع|T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)
+UV1|جهد منخفض في خط DC|هبوط التغذية أو توصيل مرتخٍ|T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)
+OL1|حمل زائد على المحرك||T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)
+OL2|حمل زائد على الانفرتر||T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)
+OH|سخونة المشتت الحراري|مروحة معطلة أو مشتت مسدود|T|X|Fabrico (Yaskawa)|Flexa Systems (Yaskawa A1000) يعكس المعنيين: oH تحذير وoH1 عطل سخونة
+OH1|تحذير سخونة المشتت الحراري||T|X|Fabrico (Yaskawa)|Flexa Systems (Yaskawa A1000) يعكس المعنيين: oH تحذير وoH1 عطل سخونة
+PF|فقدان طور في الدخل|فيوز محروق أو طرف مرتخٍ|T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)
+LF|فقدان طور في الخرج||T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)
+CE|خطأ تواصل||T|2|Fabrico (Yaskawa)، Flexa Systems (Yaskawa A1000)
+EF|أمر تشغيل أمامي وعكسي معاً||T|1|Fabrico (Yaskawa)
+EF1|عطل خارجي على المدخل S1||T|1|Fabrico (Yaskawa)
+EF2|عطل خارجي على المدخل S2||T|1|Fabrico (Yaskawa)
+EF3|عطل خارجي على المدخل S3||T|1|Fabrico (Yaskawa)
+EF4|عطل خارجي على المدخل S4||T|1|Fabrico (Yaskawa)
+EF5|عطل خارجي على المدخل S5||T|1|Fabrico (Yaskawa)
+EF6|عطل خارجي على المدخل S6||T|1|Fabrico (Yaskawa)
+EF7|عطل خارجي على المدخل S7||T|1|Fabrico (Yaskawa)
+EF8|عطل خارجي على المدخل S8||T|1|Fabrico (Yaskawa)
+Hbb|مداخل الإيقاف الآمن مفتوحة||T|1|Fabrico (Yaskawa)
+bUS|انقطاع بطاقة التواصل الشبكي||T|1|Fabrico (Yaskawa)
+oPE|خطأ برمجة، إعدادات متعارضة||T|1|Fabrico (Yaskawa)
+@انفرتر صناعي|Fuji
+OC1|تيار زائد لحظي أثناء التسارع||T|O|Fuji الرسمي (FRENIC-HVAC)|سلسلة FRENIC-HVAC
+OC2|تيار زائد لحظي أثناء التباطؤ||T|O|Fuji الرسمي (FRENIC-HVAC)
+OC3|تيار زائد لحظي عند السرعة الثابتة||T|O|Fuji الرسمي (FRENIC-HVAC)
+EF|تسريب أرضي||T|O|Fuji الرسمي (FRENIC-HVAC)
+OV1|جهد زائد أثناء التسارع||T|O|Fuji الرسمي (FRENIC-HVAC)
+OV2|جهد زائد أثناء التباطؤ||T|O|Fuji الرسمي (FRENIC-HVAC)
+OV3|جهد زائد عند السرعة الثابتة||T|O|Fuji الرسمي (FRENIC-HVAC)
+LV|جهد منخفض||T|O|Fuji الرسمي (FRENIC-HVAC)
+LiN|فقدان طور في الدخل||T|O|Fuji الرسمي (FRENIC-HVAC)
+OPL|فقدان طور في الخرج||T|O|Fuji الرسمي (FRENIC-HVAC)
+OH1|سخونة المشتت الحراري||T|O|Fuji الرسمي (FRENIC-HVAC)
+OH2|إنذار خارجي||T|O|Fuji الرسمي (FRENIC-HVAC)
+OH3|سخونة داخل الانفرتر||T|O|Fuji الرسمي (FRENIC-HVAC)
+OH4|حماية المحرك بثرمستور PTC||T|O|Fuji الرسمي (FRENIC-HVAC)
+FUS|احتراق الفيوز||T|O|Fuji الرسمي (FRENIC-HVAC)
+PbF|خلل دائرة الشحن||T|O|Fuji الرسمي (FRENIC-HVAC)
+OL1|حمل زائد على المحرك 1||T|O|Fuji الرسمي (FRENIC-HVAC)
+OLU|حمل زائد على الانفرتر||T|O|Fuji الرسمي (FRENIC-HVAC)
+Er1|خطأ ذاكرة||T|O|Fuji الرسمي (FRENIC-HVAC)
+Er2|خطأ تواصل لوحة المفاتيح||T|O|Fuji الرسمي (FRENIC-HVAC)
+Er3|خطأ المعالج||T|O|Fuji الرسمي (FRENIC-HVAC)
+Er4|خطأ تواصل الملحق||T|O|Fuji الرسمي (FRENIC-HVAC)
+Er5|خطأ الملحق||T|O|Fuji الرسمي (FRENIC-HVAC)
+Er6|حماية التشغيل||T|O|Fuji الرسمي (FRENIC-HVAC)
+Er7|خطأ الضبط التلقائي||T|O|Fuji الرسمي (FRENIC-HVAC)
+Er8|خطأ تواصل RS-485 منفذ 1||T|O|Fuji الرسمي (FRENIC-HVAC)
+ErP|خطأ تواصل RS-485 منفذ 2||T|O|Fuji الرسمي (FRENIC-HVAC)
+ErF|خطأ حفظ البيانات عند انخفاض الجهد||T|O|Fuji الرسمي (FRENIC-HVAC)
+ErH|خطأ عتاد||T|O|Fuji الرسمي (FRENIC-HVAC)
+CoF|كشف انفصال دخل التيار||T|O|Fuji الرسمي (FRENIC-HVAC)
+ECL|خطأ المنطق القابل للتخصيص||T|O|Fuji الرسمي (FRENIC-HVAC)
+ECF|خطأ دائرة التمكين||T|O|Fuji الرسمي (FRENIC-HVAC)
+PV1|خطأ تغذية راجعة PID 1||T|O|Fuji الرسمي (FRENIC-HVAC)
+PV2|خطأ تغذية راجعة PID 2||T|O|Fuji الرسمي (FRENIC-HVAC)
+PVA|خطأ تغذية راجعة PID الخارجي 1||T|O|Fuji الرسمي (FRENIC-HVAC)
+PVB|خطأ تغذية راجعة PID الخارجي 2||T|O|Fuji الرسمي (FRENIC-HVAC)
+PVC|خطأ تغذية راجعة PID الخارجي 3||T|O|Fuji الرسمي (FRENIC-HVAC)
+Pdr|حماية من الجفاف||T|O|Fuji الرسمي (FRENIC-HVAC)
+roC|تجاوز عدد مرات التشغيل في الساعة||T|O|Fuji الرسمي (FRENIC-HVAC)
+PoL|حماية نهاية منحنى المضخة||T|O|Fuji الرسمي (FRENIC-HVAC)
+rLo|منع الانحشار||T|O|Fuji الرسمي (FRENIC-HVAC)
+FoL|انسداد الفلتر||T|O|Fuji الرسمي (FRENIC-HVAC)
+LoK|قفل الانفرتر بكلمة مرور||T|O|Fuji الرسمي (FRENIC-HVAC)
+Lob|بطارية منخفضة||T|O|Fuji الرسمي (FRENIC-HVAC)
+dtL|فقدان معلومات التاريخ||T|O|Fuji الرسمي (FRENIC-HVAC)
+@انفرتر صناعي|Allen-Bradley
+F002|دخل مساعد|فصل خارجي أو انفتاح قفل|T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)|موديل PowerFlex 525
+F003|انقطاع التغذية||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F004|جهد منخفض||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F005|جهد زائد||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F006|تعثر المحرك||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F007|حمل زائد على المحرك||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F008|سخونة المشتت الحراري||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F009|سخونة وحدة التحكم||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F012|تيار زائد (عتاد)||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F013|تسريب أرضي||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F015|فقدان الحمل||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F021|فقدان طور في الخرج||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F029|فقدان الدخل التناظري||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F033|استُنفدت محاولات إعادة التشغيل||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F038|طور U مع الأرضي||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F039|طور V مع الأرضي||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F040|طور W مع الأرضي||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F048|أُعيدت المُدخلات لضبط المصنع||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F059|دائرة الأمان مفتوحة||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F064|حمل زائد على الانفرتر||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F070|عطل قسم الطاقة||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F071|انقطاع شبكة DSI||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+F073|انقطاع EtherNet/IP||T|2|Fabrico (PowerFlex 525)، PLC Exchange (PowerFlex 525)
+@انفرتر صناعي|INVT
+OUt1|خطأ IGBT طور U||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|موديل GD200A. الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OUt2|خطأ IGBT طور V||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OUt3|خطأ IGBT طور W||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OC1|تيار زائد أثناء التسارع||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OC2|تيار زائد أثناء التباطؤ||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OC3|تيار زائد عند السرعة الثابتة||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OV1|جهد زائد أثناء التسارع||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OV2|جهد زائد أثناء التباطؤ||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OV3|جهد زائد عند السرعة الثابتة||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+UV|جهد خط DC منخفض||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OL1|حمل زائد على المحرك||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OL2|حمل زائد على الانفرتر||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OL3|حمل زائد كهربائي||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+SPI|فقدان طور في الدخل||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+SPO|فقدان طور في الخرج||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+OH1|سخونة لوحة التحكم||T|1|Dattech (INVT GD200A)
+OH2|سخونة IGBT||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+EF|عطل دائرة خارجية||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+CE|خطأ تواصل||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+ItE|خلل دائرة قياس التيار||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+tE|خطأ الضبط التلقائي||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+EEP|خطأ الذاكرة EEPROM||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+PIDE|فقدان تغذية PID الراجعة||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+bCE|خطأ الكبح||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+ETH1|قصر مع الأرضي 1||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+ETH2|قصر مع الأرضي 2||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+dEu|انحراف السرعة||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+STo|خطأ معايرة المُدخلات||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+END|بلغ زمن التشغيل ضبط المصنع||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+PCE|خطأ تواصل لوحة المفاتيح||T|1|Dattech (INVT GD200A)
+DNE|خطأ تنزيل المُدخلات||T|1|Dattech (INVT GD200A)
+LL|حمل ناقص||T|2|Dattech (INVT GD200A)، INVT الرسمي (GD100-PV)|الكتيّب الرسمي لموديل GD100-PV يعطي المعنى نفسه للعطل المقابل
+@انفرتر صناعي|Invertek
+F01|الذاكرة لا تحفظ الإعداد الجديد||T|O|Invertek الرسمي (Optidrive)|سلسلة Optidrive
+F02|تيار الخرج فوق 200% من المقنّن||T|O|Invertek الرسمي (Optidrive)
+F03|تيار فوق 100% لفترة طويلة||T|O|Invertek الرسمي (Optidrive)
+F04|حماية داخلية من الحمل الزائد على الإلكترونيات||T|O|Invertek الرسمي (Optidrive)
+F05|جهد زائد على خط DC||T|O|Invertek الرسمي (Optidrive)
+F06|جهد منخفض على خط DC||T|O|Invertek الرسمي (Optidrive)
+F07|سخونة المشتت الحراري||T|O|Invertek الرسمي (Optidrive)
+F08|برودة المشتت الحراري تحت الحد||T|O|Invertek الرسمي (Optidrive)
+F09|عطل ثرمستور المشتت||T|O|Invertek الرسمي (Optidrive)
+F10|انقطاع التواصل||T|O|Invertek الرسمي (Optidrive)
+F11|فقدان طور في الدخل||T|O|Invertek الرسمي (Optidrive)
+F12|عدم توازن الأطوار||T|O|Invertek الرسمي (Optidrive)

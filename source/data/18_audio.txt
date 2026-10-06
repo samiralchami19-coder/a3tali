@@ -1,0 +1,56 @@
+#Kenwood الرسمي (KDC)|https://manual.kenwood.com/ce/im367/Europe/English(en)/IM367_13EntryDAB-37.html
+#Kenwood الرسمي (DMX)|https://manual.kenwood.com/mt/da/im409/DMX_M/en-US/269496587.html
+#Sony الرسمي (مسجلات السيارات)|https://www.sony.co.th/en/electronics/support/articles/00030197
+#Corvette Action Center (راديو GM)|https://www.corvetteactioncenter.com/tech/knowledgebase/article/error-codes-on-gm-radios-explained-290.html
+#Home Theater DIY (Sony)|https://thehometheaterdiy.com/sony-receiver-flashing-protect-meaning-solutions-explained/
+#Home Theater DIY (Yamaha)|https://thehometheaterdiy.com/yamaha-receiver-how-do-i-fix-check-sp-wires-troubleshooting-tips/
+#BoomSpeaker (Denon)|https://boomspeaker.com/denon-receiver-turns-off-blinks-red/
+@مسجل سيارة|كينوود
+PLS EJECT|خلل في الجهاز لسبب غير معروف|اضغط زر إعادة الضبط|U|O|Kenwood الرسمي (KDC)|مسجلات KDC بقرص وUSB
+TOC ERROR|القرص متسخ أو مقلوب أو مخدوش|نظف القرص أو جرّب غيره|U|O|Kenwood الرسمي (KDC)
+PROTECT|سلك سماعة مقصور أو يلامس هيكل السيارة|اعزل أسلاك السماعات ثم اضغط إعادة الضبط|U|O|Kenwood الرسمي (KDC)
+NA FILE|صيغة الملف الصوتي غير مدعومة|استخدم صيغة مدعومة|U|O|Kenwood الرسمي (KDC)
+COPY PRO|ملف محمي من النسخ|استخدم ملفاً غير محمي|U|O|Kenwood الرسمي (KDC)
+READ ERROR|نظام ملفات ذاكرة USB تالف|أعد نسخ الملفات أو هيّئ الذاكرة|U|O|Kenwood الرسمي (KDC)
+NO DEVICE|اختير مصدر USB ولا ذاكرة موصولة|وصّل الذاكرة أو غيّر المصدر|U|O|Kenwood الرسمي (KDC)
+NA DEVICE|ذاكرة USB أو جهاز غير مدعوم|تأكد من التوافق وأعد التوصيل|U|O|Kenwood الرسمي (KDC)
+NO MUSIC|لا ملفات صوتية قابلة للتشغيل|أضف ملفات صوتية|U|O|Kenwood الرسمي (KDC)
+USB ERROR|خلل في ذاكرة USB الموصولة|انزعها وجرّب مرة أخرى أو استخدم غيرها|U|O|Kenwood الرسمي (KDC)
+iPod ERROR|فشل الاتصال بالآيفون أو الآيبود|افصله وأعد توصيله|U|O|Kenwood الرسمي (KDC)
+DAB ANT ERR|قصر في هوائي DAB|افحص الهوائي|U|O|Kenwood الرسمي (KDC)
+Speaker wiring error|خطأ في توصيل أسلاك السماعات|صحّح التوصيل أو اعزل السلك ثم أطفئ وشغّل|U|O|Kenwood الرسمي (DMX)|شاشات DMX
+No Device|اختير مصدر USB ولا ذاكرة موصولة|وصّل الذاكرة|U|O|Kenwood الرسمي (DMX)
+Disconnected|اختير الآيفون أو البلوتوث وهو غير موصول|وصّل الجهاز|U|O|Kenwood الرسمي (DMX)
+No Media file|لا ملفات صوتية قابلة للتشغيل في الذاكرة|جرّب ذاكرة أخرى|U|O|Kenwood الرسمي (DMX)
+USB device over current status detected|ذاكرة USB تسحب تياراً فوق الحد|انزع الذاكرة وغيّر المصدر|U|O|Kenwood الرسمي (DMX)
+Speed sense wire not connected|سلك نبضات السرعة غير موصول|افحص توصيل سلك السرعة|T|O|Kenwood الرسمي (DMX)
+Starting tuner failed|وحدة الراديو لا تعمل|أطفئ وشغّل، وإن استمر فراجع الوكيل|U|O|Kenwood الرسمي (DMX)
+Audio output has stopped due to an error|توقف خرج الصوت بسبب خطأ|أعد ضبط الجهاز|U|O|Kenwood الرسمي (DMX)
+@مسجل سيارة|سوني
+NO SUPRT|ذاكرة USB غير مدعومة|افصلها دقيقة ثم أعد توصيلها|U|O|Sony الرسمي (مسجلات السيارات)
+--:--|ذاكرة USB غير مدعومة|افصلها دقيقة ثم أعد توصيلها|U|O|Sony الرسمي (مسجلات السيارات)
+USB Reading|قراءة ذاكرة USB تأخذ وقتاً أطول من المعتاد|افصلها وأعد توصيلها أو جرّب كيبلاً آخر|U|O|Sony الرسمي (مسجلات السيارات)
+NO DEV|لا جهاز مكتشف|افصل كيبل USB دقيقة ثم أعد توصيله|U|O|Sony الرسمي (مسجلات السيارات)
+NO MUSIC|لا ملفات موسيقى في الذاكرة||U|O|Sony الرسمي (مسجلات السيارات)
+@مسجل سيارة|GM المصنعي
+E10|شريط مشدود، حركة الكاسيت مقيّدة أو السير مقطوع||T|1|Corvette Action Center (راديو GM)|راديوهات GM القديمة بكاسيت وCD
+E11|شريط الكاسيت مقطوع||U|1|Corvette Action Center (راديو GM)
+E12|خلل تواصل بين السيارة والراديو أو داخل الراديو||T|1|Corvette Action Center (راديو GM)
+E13|خطأ قراءة نبضات سرعة الكاسيت||T|1|Corvette Action Center (راديو GM)
+E14|الشريط ملتف حول آلية التشغيل||U|1|Corvette Action Center (راديو GM)
+E20|مشغّل CD لا يركّز على القرص||T|1|Corvette Action Center (راديو GM)
+E21|مشكلة في قراءة القرص|جرّب قرصاً آخر|U|1|Corvette Action Center (راديو GM)
+E22|محرك CD لا يتعامل مع القرص كما يجب||T|1|Corvette Action Center (راديو GM)
+E23|خلل تواصل بين السيارة والراديو أو داخل الراديو||T|1|Corvette Action Center (راديو GM)
+E31|مشكلة قراءة القرص في مبدّل الأقراص||U|1|Corvette Action Center (راديو GM)
+E32|محرك مبدّل الأقراص لا يتعامل مع القرص كما يجب||T|1|Corvette Action Center (راديو GM)
+E33|خطأ تواصل بين الراديو ومبدّل الأقراص||T|1|Corvette Action Center (راديو GM)
+E34|باب مبدّل الأقراص مفتوح||U|1|Corvette Action Center (راديو GM)
+E35|خزانة مبدّل الأقراص فارغة||U|1|Corvette Action Center (راديو GM)
+E30|غير محسوم|خطأ تركيز في مبدّل الأقراص، أو ارتفاع حرارة المبدّل ذي العشرة أقراص|T|X|Corvette Action Center (راديو GM)|المصدر نفسه يذكر المعنيين بحسب نوع المبدّل
+@مسجل ومضخّم منزلي|سوني
+PROTECT|تفعّلت دائرة الحماية وانطفأ الجهاز|أسلاك سماعات مقصورة، سخونة أو تهوية مسدودة، مقاومة سماعات غير مطابقة، تذبذب كهرباء، عطل مضخّم داخلي|U|1|Home Theater DIY (Sony)|افصل الجهاز 30 دقيقة، ثم افصل كل السماعات وشغّله، ثم أعدها واحدة واحدة
+@مسجل ومضخّم منزلي|ياماها
+CHECK SP WIRES|قصر أو خلل في أسلاك السماعات|شعيرات نحاس تلامس الأطراف، سماعة تالفة، ضبط مقاومة خاطئ، توصيل مرتخٍ، سلك مهروس، عطل مضخّم داخلي|U|1|Home Theater DIY (Yamaha)|إن استمرت الرسالة والسماعات كلها مفصولة فالعطل داخلي
+@مسجل ومضخّم منزلي|دينون
+ضوء أحمر يومض|وضع الحماية|قصر في أسلاك السماعات، مقاومة سماعات منخفضة، سخونة، توصيل مرتخٍ، مشكلة كهرباء، عطل داخلي|U|1|BoomSpeaker (Denon)|افصل كل شيء ثم أعد السماعات زوجاً زوجاً لتحديد المسبّب

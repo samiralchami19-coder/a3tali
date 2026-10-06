@@ -1,0 +1,192 @@
+#Mercedes-Benz of Warwick (وكيل)|https://www.mercedesbenzofwarwick.com/service/service-tips/what-does-the-light-on-my-dashboard-mean/
+#Audi Fort Worth (وكيل)|https://www.audifortworth.com/en/service/audi-warning-lights
+#Honda الرسمي (المملكة المتحدة)|https://www.honda.co.uk/engineroom/cars/understanding-the-honda-cars-warning-lights/
+#Nissan الرسمي (كتيّب X-Trail 2024)|https://www.nissan.com.mt/ownership/car-owner-manual/manuals/iom/xtrail/0t33/e1/2024/key-system-fault-see-owners-manual-warning-1.shtml
+#Toyota الرسمي (كتيّب المالك)|https://assets.sia.toyota.com/publications/en/om-x/OM04051U/topics/chapter7/ch07se020405.html
+#Hyundai الرسمي (كتيّب Tucson 2025)|https://ownersmanual.hyundai.com/full_webhelp/NX4/2025/en_US/idc0a6db6b274.html
+#Kia الرسمي (كتيّب 2024)|https://ownersmanual.kia.com/full_webhelp/SK3/2024/en_US/topics/t00136.html
+#AutoUserGuide (Nissan Altima 2022)|https://www.autouserguide.com/nissan/altima/nissan-altima-2022-vehicle-information-display-warnings-and-indicators-user-guide/
+#LRMan (Freelander 2)|https://lrman.ru/en/freelander/2/electrics/information/message_list
+#MBCA Star Magazine (مرسيدس)|https://starmagazine.mbca.org/star-article/march-april-2016/tech-session-%E2%80%93-richard-simonds-how-your-mercedes-benz-communicates-you
+#YOUCANIC (هوندا)|https://www.youcanic.com/honda-dashboard-warning-lights-symbols/
+#Blackcircles (أودي)|https://www.blackcircles.com/news/audi-dashboard-warning-lights-explained
+@سيارة (رسائل الشاشة)|تويوتا
+Engine Coolant Temp High|سخونة المحرك|أوقف السيارة في مكان آمن وراجع كتيّب المالك|U|O|Toyota الرسمي (كتيّب المالك)|في سيارات المواصفات الخليجية تظهر الرسائل بالعربية أيضاً. النص هنا من كتيّب بالإنجليزية
+Transmission Oil Temp High|سخونة زيت القير|أوقف السيارة في مكان آمن واتصل بالوكالة|U|O|Toyota الرسمي (كتيّب المالك)
+Oil Pressure Low|ضغط زيت المحرك منخفض|أوقف السيارة في مكان آمن واتصل بالوكالة|T|O|Toyota الرسمي (كتيّب المالك)
+Braking Power Low|خلل في نظام الفرامل|أوقف السيارة في مكان آمن واتصل بالوكالة|T|O|Toyota الرسمي (كتيّب المالك)
+Smart Key System Malfunction|خلل نظام المفتاح الذكي|راجع الوكالة|T|O|Toyota الرسمي (كتيّب المالك)
+Shift to P Before Exiting|فُتح الباب والقير ليس على P|ضع القير على P|U|O|Toyota الرسمي (كتيّب المالك)
+Auto Power OFF to Conserve Battery|انطفأت الكهرباء تلقائياً لحفظ البطارية|شغّل المحرك وارفع دورانه خمس دقائق|U|O|Toyota الرسمي (كتيّب المالك)
+Headlight System Malfunction|خلل في المصابيح الأمامية LED أو النور العالي التلقائي|تُفحص في الوكالة|T|O|Toyota الرسمي (كتيّب المالك)
+Engine Oil Level Low|مستوى زيت المحرك منخفض|أضف الزيت أو غيّره|U|O|Toyota الرسمي (كتيّب المالك)
+Engine Stopped Steering Power Low|توقف المحرك وضعف مساعد المقود|أمسك المقود بقوة|U|O|Toyota الرسمي (كتيّب المالك)
+Maintenance Required Soon|موعد الصيانة الدورية يقترب||U|O|Toyota الرسمي (كتيّب المالك)
+Maintenance Required Visit Dealer|حان موعد الصيانة الدورية||U|O|Toyota الرسمي (كتيّب المالك)
+Engine Maintenance Required|خلل في أحد مكونات المحرك|تُفحص في الوكالة|T|O|Toyota الرسمي (كتيّب المالك)
+Oil Maintenance Required Soon|موعد تغيير الزيت يقترب||U|O|Toyota الرسمي (كتيّب المالك)
+Oil Maintenance Required|حان تغيير الزيت والفلتر||U|O|Toyota الرسمي (كتيّب المالك)
+Parking Assist Unavailable Sensor Blocked|حساس الركن مغطى|أزل الماء أو الثلج أو الأوساخ|U|O|Toyota الرسمي (كتيّب المالك)
+Parking Assist Unavailable Low Visibility|الكاميرا الخلفية محجوبة|نظف الكاميرا الخلفية|U|O|Toyota الرسمي (كتيّب المالك)
+System Malfunction Visit Dealer|خلل في نظام أمان|تُفحص السيارة فوراً|T|O|Toyota الرسمي (كتيّب المالك)
+System Stopped See Owner's Manual|توقف نظام أمان مؤقتاً|افحص البطارية ونظف الحساسات|U|O|Toyota الرسمي (كتيّب المالك)
+System Stopped Front Camera Low Visibility|رؤية الكاميرا الأمامية محجوبة|نظف الزجاج الأمامي وأزل الضباب|U|O|Toyota الرسمي (كتيّب المالك)
+System Stopped Front Camera Out of Temperature|حرارة الكاميرا خارج نطاق العمل|عدّل حرارة المقصورة بالمكيف|U|O|Toyota الرسمي (كتيّب المالك)
+System Stopped Front Radar Sensor Blocked|حساس الرادار الأمامي محجوب|نظف الحساس وغطاءه|U|O|Toyota الرسمي (كتيّب المالك)
+System Stopped Front Radar Out of Temperature|حرارة الرادار غير طبيعية|انتظر حتى تعتدل|U|O|Toyota الرسمي (كتيّب المالك)
+System Stopped Front Radar In Self Calibration|الرادار يعاير نفسه|نظف الحساس وواصل القيادة|N|O|Toyota الرسمي (كتيّب المالك)
+Cruise Control Unavailable|مثبت السرعة غير متاح|اضغط زر مساعد القيادة بقوة|U|O|Toyota الرسمي (كتيّب المالك)
+Power Tailgate Unavailable Fully Close Manually|الباب الخلفي الكهربائي يحتاج إعادة تهيئة|أغلقه يدوياً بالكامل|U|O|Toyota الرسمي (كتيّب المالك)
+Power Tailgate Unavailable Malfunction|خلل الباب الخلفي الكهربائي|يُفحص في الوكالة|T|O|Toyota الرسمي (كتيّب المالك)
+@سيارة (رسائل الشاشة)|هيونداي
+Shift to P|أُطفئ المحرك والقير ليس على P|ضع القير على P ثم أطفئ|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Vehicle is in N|محاولة إطفاء والقير على N|ضع القير على P ثم أطفئ|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Low key battery|بطارية المفتاح الذكي ضعيفة|استبدل بطارية المفتاح|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Press brake pedal to start engine|ضُغط زر التشغيل دون دواسة الفرامل|اضغط الفرامل ثم الزر|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Key not in vehicle|المفتاح الذكي ليس داخل السيارة والمحرك يعمل||U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Press START button again|فشل التشغيل من أول مرة|اضغط الزر مرة أخرى|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Press START button with key|المفتاح الذكي لم يُكتشف|اضغط الزر بالمفتاح نفسه|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Check BRAKE SWITCH fuse|فيوز مفتاح الفرامل مفصول|استبدل الفيوز، أو اضغط زر التشغيل 10 ثوانٍ|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Shift to P or N to start engine|محاولة تشغيل والقير في وضع خاطئ|شغّل على P أو N|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Battery discharging due to external electrical devices|البطارية تفرغ بسبب أجهزة خارجية|افصل الأجهزة الخارجية|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Low tire pressure|ضغط الإطارات منخفض||U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Low washer fluid|سائل المسّاحات شارف على النفاد||U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Engine overheated|حرارة سائل التبريد تجاوزت 120 مئوية|أوقف السيارة وراجع قسم السخونة في الكتيّب|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Check headlight|مصباح أمامي لا يعمل|استبدل اللمبة|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Check turn signal|إشارة الانعطاف لا تعمل|استبدل اللمبة|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Check headlight LED|خلل في مصباح LED الأمامي|يُفحص في الوكالة|T|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Check Active Air Flap system|خلل في بوابة الهواء النشطة|يُفحص في الوكالة|T|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Check battery|خلل في البطارية المساعدة 12 فولت|تُفحص في الوكالة|T|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Check user authentication system|خلل في المفتاح الرقمي أو بصمة الإصبع|يُفحص في الوكالة|T|O|Hyundai الرسمي (كتيّب Tucson 2025)
+Fingerprint authentication is locked out|تجاوز عدد محاولات البصمة|انتظر دقيقة أو استخدم المفتاح|U|O|Hyundai الرسمي (كتيّب Tucson 2025)
+@سيارة (رسائل الشاشة)|كيا
+Engine has overheated|حرارة سائل التبريد فوق 120 مئوية|اتبع إجراءات سخونة المحرك|U|O|Kia الرسمي (كتيّب 2024)
+Low Key Battery|بطارية المفتاح الذكي فارغة|استبدلها|U|O|Kia الرسمي (كتيّب 2024)
+Press START button while turning wheel|المقود مقفل|حرّك المقود وأنت تضغط زر التشغيل|U|O|Kia الرسمي (كتيّب 2024)
+Check Steering Wheel Lock System|خلل في نظام قفل المقود|يُفحص في الوكالة|T|O|Kia الرسمي (كتيّب 2024)
+Key not in vehicle|المفتاح الذكي ليس في السيارة||U|O|Kia الرسمي (كتيّب 2024)
+Key not detected|المفتاح الذكي لم يُتعرَّف عليه||U|O|Kia الرسمي (كتيّب 2024)
+Low Pressure|ضغط الإطارات منخفض||U|O|Kia الرسمي (كتيّب 2024)
+Shift to P or N to start engine|القير ليس على P أو N||U|O|Kia الرسمي (كتيّب 2024)
+Press brake pedal to start engine|زر التشغيل يحتاج دواسة الفرامل||U|O|Kia الرسمي (كتيّب 2024)
+Battery discharging due to external electrical devices|جهاز خارجي يستنزف البطارية|افصل الأجهزة الخارجية|U|O|Kia الرسمي (كتيّب 2024)
+Press START button again|مشكلة في نظام زر التشغيل|اضغط الزر مرة أخرى|U|O|Kia الرسمي (كتيّب 2024)
+Press START button with key|المفتاح لم يُكتشف عند التشغيل|اضغط الزر بالمفتاح|U|O|Kia الرسمي (كتيّب 2024)
+Check Lane Keeping Assist (LKA)|خلل مساعد البقاء في المسار|يُفحص في الوكالة|T|O|Kia الرسمي (كتيّب 2024)
+Check High Beam Assist (HBA) system|خلل مساعد النور العالي|يُفحص في الوكالة|T|O|Kia الرسمي (كتيّب 2024)
+Check Forward Collision-Avoidance Assist system|خلل نظام تفادي الاصطدام الأمامي|يُفحص في الوكالة|T|O|Kia الرسمي (كتيّب 2024)
+Check Smart Cruise Control System|خلل مثبت السرعة الذكي|يُفحص في الوكالة|T|O|Kia الرسمي (كتيّب 2024)
+Check Blind-Spot Collision Warning System|خلل نظام النقطة العمياء|يُفحص في الوكالة|T|O|Kia الرسمي (كتيّب 2024)
+Check Driver Attention Warning (DAW) System|خلل نظام تنبيه انتباه السائق|يُفحص في الوكالة|T|O|Kia الرسمي (كتيّب 2024)
+Icy Road Warning|حرارة الطريق تحت 4 مئوية|قُد بحذر|N|O|Kia الرسمي (كتيّب 2024)
+@سيارة (رسائل الشاشة)|نيسان
+Key Battery Low|بطارية المفتاح الذكي ضعيفة|استبدلها|U|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|من كتيّب Altima 2022 عبر موقع وسيط. الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Key System Error|خلل في نظام المفتاح الذكي||T|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+No Key Detected|المفتاح الذكي خارج السيارة||U|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Chassis Control System Error|خلل في نظام التحكم بالشاسيه (تثبيت الفرامل التلقائي)||T|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Door/Trunk Open|باب أو صندوق مفتوح||U|1|AutoUserGuide (Nissan Altima 2022)
+Engine Oil Service due now|حان تغيير زيت المحرك||U|1|AutoUserGuide (Nissan Altima 2022)
+Headlight System Error|خلل في نظام المصابيح الأمامية||T|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Loose Fuel Cap|غطاء الوقود غير محكم|أحكم إغلاقه|U|1|AutoUserGuide (Nissan Altima 2022)
+Low Fuel|الوقود منخفض||U|1|AutoUserGuide (Nissan Altima 2022)
+Low Washer Fluid|سائل المسّاحات منخفض||U|1|AutoUserGuide (Nissan Altima 2022)
+The power turned off to save the battery|أُطفئ التشغيل تلقائياً لحفظ البطارية||U|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Press Brake Pedal|يجب ضغط دواسة الفرامل||U|1|AutoUserGuide (Nissan Altima 2022)
+Release Parking Brake|فرامل اليد مشدودة والسيارة تتحرك||U|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Shift to Park|القير ليس على P||U|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Shipping Mode On Push Storage Fuse|وضع الشحن مفعَّل|اضغط فيوز التخزين للداخل|U|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Tire Pressure Low – Add Air|ضغط الإطارات منخفض||U|1|AutoUserGuide (Nissan Altima 2022)
+AWD Error|نظام الدفع الكلي لا يعمل كما يجب||T|1|AutoUserGuide (Nissan Altima 2022)
+AWD High Temp. Stop Vehicle|ارتفاع حرارة زيت الدفع الكلي|أوقف السيارة|U|1|AutoUserGuide (Nissan Altima 2022)
+Tire Size Incorrect|فرق كبير بين قطر العجلات الأمامية والخلفية||T|1|AutoUserGuide (Nissan Altima 2022)
+CVT (AT) Malfunction Service now|مشكلة في ناقل الحركة CVT||T|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+CVT (AT) hot Power reduced|ارتفاع حرارة زيت القير وتخفيض القدرة|خفّف السرعة ودعه يبرد|U|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+CVT (AT) Stop the vehicle|إيقاف بسبب حرارة ناقل الحركة|أوقف السيارة|U|1|AutoUserGuide (Nissan Altima 2022)
+Driver Attention Alert Malfunction|نظام تنبيه السائق لا يعمل||T|1|AutoUserGuide (Nissan Altima 2022)
+Forward Driving Aids temporarily disabled|الحساس الأمامي محجوب، المساعدات معطلة مؤقتاً|نظف مقدمة السيارة|U|1|AutoUserGuide (Nissan Altima 2022)
+Front Sensor blocked|حساس الرادار الأمامي محجوب||U|1|AutoUserGuide (Nissan Altima 2022)
+Malfunction: See Owner's Manual|خلل في قراءة الإشارات أو الفرملة الخلفية التلقائية||T|1|AutoUserGuide (Nissan Altima 2022)
+Not Available System Malfunction|أنظمة متعددة لا تعمل||T|1|AutoUserGuide (Nissan Altima 2022)
+Parking Sensor Error|خلل في حساسات الركن||T|2|AutoUserGuide (Nissan Altima 2022)، Nissan الرسمي (كتيّب X-Trail 2024)|الكتيّب الأوروبي يكتبها بلفظ Fault أو Gearbox بدل Error أو CVT
+Steering Assist Alert|المقود غير ممسوك|أمسك المقود|U|1|AutoUserGuide (Nissan Altima 2022)
+Unavailable High Cabin Temperature|حرارة المقصورة فوق 40 مئوية|برّد المقصورة|U|1|AutoUserGuide (Nissan Altima 2022)
+Unavailable: Side Radar Obstruction|الرادار الجانبي محجوب||U|1|AutoUserGuide (Nissan Altima 2022)
+@سيارة (رسائل الشاشة)|لاند روفر
+BONNET OPEN|غطاء المحرك مفتوح||U|1|LRMan (Freelander 2)|من دليل صيانة Freelander 2، ورسائل الموديلات الأحدث تختلف
+CHECK ALL TYRE PRESSURES|ضغط منخفض في أكثر من إطار||U|1|LRMan (Freelander 2)
+DPF FULL|فلتر الجسيمات يحتاج تجديداً|قُد على الطريق السريع فترة|U|1|LRMan (Freelander 2)
+DPF FULL VISIT DEALER|فشل تجديد فلتر الجسيمات||T|1|LRMan (Freelander 2)
+DSC SWITCHED OFF|نظام الثبات مطفأ|اضغط زر DSC|U|1|LRMan (Freelander 2)
+ENGINE SYSTEM FAULT|خلل رصده كمبيوتر المحرك||T|1|LRMan (Freelander 2)
+FUEL TANK CAP LOOSE OR MISSING|غطاء الوقود مرتخٍ أو مفقود||U|1|LRMan (Freelander 2)
+HDC FAULT SYSTEM NOT AVAILABLE|خلل نظام نزول المنحدرات|بطارية ضعيفة، حساس سرعة عجلة، مفتاح ضوء الفرامل، حساس زاوية المقود، وحدة ABS، أسلاك|T|1|LRMan (Freelander 2)
+HDC NOT AVAILABLE IN THIS GEAR|الغيار الحالي لا يناسب HDC||U|1|LRMan (Freelander 2)
+HDC NOT AVAILABLE SPEED TOO HIGH|السرعة أعلى من حد HDC||U|1|LRMan (Freelander 2)
+HDC TEMPORARILY NOT AVAILABLE SYSTEM COOLING|HDC متوقف حتى تبرد الفرامل|انتظر|U|1|LRMan (Freelander 2)
+HIGH ENGINE SPEED FOR COOLING|رفع دوران المحرك لتسريع التبريد||N|1|LRMan (Freelander 2)
+LOW COOLANT LEVEL|مستوى سائل التبريد منخفض|افحص التسريب|T|1|LRMan (Freelander 2)
+LOW WASHER FLUID|سائل المسّاحات منخفض||U|1|LRMan (Freelander 2)
+OIL SERVICE REQUIRED VISIT DEALER|الزيت تميّع بسبب تجديد الفلتر||T|1|LRMan (Freelander 2)
+REDUCED ENGINE PERFORMANCE|قدرة المحرك مخفّضة||T|1|LRMan (Freelander 2)
+SPECIAL PROGRAM TEMPORARILY NOT AVAILABLE|برامج التضاريس متوقفة مؤقتاً||U|1|LRMan (Freelander 2)
+TERRAIN RESPONSE SYSTEM FAULTY|خلل محتمل في نظام التضاريس||T|1|LRMan (Freelander 2)
+TERRAIN RESPONSE SYSTEM NOT AVAILABLE|نظام التضاريس غير متاح بسبب خلل||T|1|LRMan (Freelander 2)
+TRANSMISSION FAULT|خلل رصده كمبيوتر القير||T|1|LRMan (Freelander 2)
+TRANSMISSION FAULT AND OVERHEATING|خلل في القير مع ارتفاع الحرارة||T|1|LRMan (Freelander 2)
+TRANSMISSION FAULT LIMITED GEARS AVAILABLE|خلل في القير وغيارات محدودة||T|1|LRMan (Freelander 2)
+TRANSMISSION FAULT TRACTION REDUCED|خلل في القير وتماسك مخفّض||T|1|LRMan (Freelander 2)
+TRANSMISSION OVERHEAT SLOW DOWN|حرارة القير مرتفعة|خفّف السرعة أو توقف|U|1|LRMan (Freelander 2)
+TYRE PRESSURE MONITORING SYSTEM FAULT|خلل نظام مراقبة ضغط الإطارات||T|1|LRMan (Freelander 2)
+TYRE PRESSURES LOW FOR SPEED|ضغط الإطارات منخفض للسرعة العالية||U|1|LRMan (Freelander 2)
+FRONT LEFT TYRE PRESSURE NOT MONITORED|لا إشارة من حساس الإطار الأمامي الأيسر||T|1|LRMan (Freelander 2)
+AUXILIARY HEATER UNAVAILABLE LOW BATTERY|السخان المساعد متوقف لضعف البطارية||T|1|LRMan (Freelander 2)
+@سيارة (رسائل الشاشة)|مرسيدس
+ESP|خلل في نظام الثبات الإلكتروني||T|1|MBCA Star Magazine (مرسيدس)|من مقال في مجلة نادي ملّاك مرسيدس
+ESP Off|نظام الثبات مطفأ||U|1|MBCA Star Magazine (مرسيدس)
+Power Steering|خلل في مساعد المقود||T|1|MBCA Star Magazine (مرسيدس)
+Restraint System|مشكلة في الوسائد الهوائية أو أنظمة التقييد||T|2|MBCA Star Magazine (مرسيدس)، Mercedes-Benz of Warwick (وكيل)
+Supplemental Restraint System Service Required|الوسادة الهوائية أو شدّاد الحزام قد لا يعمل||T|1|MBCA Star Magazine (مرسيدس)
+Electric Parking Brake|خلل فرامل اليد الكهربائية أو جهد منخفض||T|1|MBCA Star Magazine (مرسيدس)
+ABS|خلل نظام منع انغلاق الفرامل||T|1|MBCA Star Magazine (مرسيدس)
+Check Engine|خلل في المحرك أو نظام الانبعاثات||T|1|MBCA Star Magazine (مرسيدس)
+BRAKE|خلل في الفرامل أو زيتها منخفض||T|2|MBCA Star Magazine (مرسيدس)، Mercedes-Benz of Warwick (وكيل)
+Coolant|المحرك ساخن أو مشكلة في سائل التبريد|أوقف السيارة|U|2|MBCA Star Magazine (مرسيدس)، Mercedes-Benz of Warwick (وكيل)
+Battery (أحمر)|عطل نظام الشحن|توقف فوراً|U|1|MBCA Star Magazine (مرسيدس)
+Engine oil (أحمر)|مستوى زيت المحرك منخفض جداً||U|1|MBCA Star Magazine (مرسيدس)
+ABS/ESP/Brake Assist (أصفر)|أنظمة التحكم بالفرامل معطلة|قُد بحذر|T|1|MBCA Star Magazine (مرسيدس)
+Tire Pressure Monitoring|افحص ضغط الإطارات||U|1|MBCA Star Magazine (مرسيدس)
+Distance Warning|تنبيه الاقتراب من جسم أمامك||N|1|MBCA Star Magazine (مرسيدس)
+Passenger airbag deactivated|وسادة الراكب الأمامي لن تعمل||N|1|MBCA Star Magazine (مرسيدس)
+@سيارة (رسائل الشاشة)|هوندا
+ABS|نظام ABS معطل، مسافة التوقف قد تطول||T|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)|أضواء لوحة العدادات لا رسائل نصية
+Service Engine Soon|مشكلة في المحرك أو الانبعاثات أو القير||T|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Air Bag|الوسائد الهوائية معطلة||T|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Engine Temperature|سخونة المحرك|توقف وأطفئ المحرك فوراً|U|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Tire Pressure Monitor|ضغط منخفض في إطار أو أكثر||U|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Charge System|مشكلة في نظام الشحن||T|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Oil Warning|ضغط الزيت منخفض|توقف فوراً|U|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Brake|مشكلة في نظام الفرامل|لا تقُد السيارة|T|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Electronic Power Steering|مشكلة في مساعد المقود الكهربائي||T|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Stability Control|نظام الثبات معطل||T|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Low Washer Fluid|سائل المسّاحات منخفض||U|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Low Fuel|الوقود منخفض||U|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+Door Ajar|باب غير مغلق تماماً||U|2|YOUCANIC (هوندا)، Honda الرسمي (المملكة المتحدة)
+@سيارة (رسائل الشاشة)|أودي
+Low Oil Pressure|ضغط الزيت منخفض جداً|افحص المستوى وأضف فوراً|U|1|Blackcircles (أودي)|أضواء ورسائل عامة
+Coolant Temperature Too High|سخونة المحرك|توقف ودعه يبرد|U|2|Blackcircles (أودي)، Audi Fort Worth (وكيل)
+Brake System Warning|فرامل اليد مشدودة أو الزيت منخفض أو خلل هيدروليكي||T|2|Blackcircles (أودي)، Audi Fort Worth (وكيل)
+Battery / Charging Fault|الدينمو أو البطارية لا تشحن||T|1|Blackcircles (أودي)
+Airbag / Restraint Fault|خلل محتمل في الوسائد أو شدّادات الأحزمة||T|2|Blackcircles (أودي)، Audi Fort Worth (وكيل)
+Steering Lock / Power Steering|مساعد المقود ضعيف أو المقود مقفل||T|1|Blackcircles (أودي)
+Transmission Fault|مشكلة في قير S tronic أو Tiptronic||T|1|Blackcircles (أودي)
+Pre Sense Fault|خلل نظام الأمان الاستباقي||T|1|Blackcircles (أودي)
+Adaptive Suspension Fault|مشكلة في التعليق الهوائي||T|1|Blackcircles (أودي)
+EPC|مشكلة في دواسة الوقود أو حساسات أو إلكترونيات المحرك|حساس دواسة الوقود، بوابة الخانق متسخة أو عالقة، حساس دواسة الفرامل، بواجي أو كويلات، حساس الكرنك|T|1|Blackcircles (أودي)
+Check Engine / MIL|خلل في الانبعاثات أو الإشعال أو الوقود||T|1|Blackcircles (أودي)
+ABS / ESC / Traction|أنظمة الأمان معطلة||T|1|Blackcircles (أودي)
+Brake Pad Wear|فحمات الفرامل متآكلة|استبدلها قريباً|U|1|Blackcircles (أودي)
+Tyre Pressure Monitoring|ضغط إطار منخفض أو خلل في النظام||U|1|Blackcircles (أودي)
+DPF Warning|الفلتر مسدود أو فشل التجديد|قُد على سرعة الطريق السريع|U|1|Blackcircles (أودي)
+Driver Assistance Faults|مثبت السرعة أو مساعد المسار أو حساسات الركن لا تعمل||T|1|Blackcircles (أودي)
+AdBlue Warning|سائل AdBlue منخفض|املأه قبل أن تمتنع السيارة عن التشغيل|U|1|Blackcircles (أودي)
+Bulb Failure|لمبة أو أكثر لا تعمل||U|2|Blackcircles (أودي)، Audi Fort Worth (وكيل)

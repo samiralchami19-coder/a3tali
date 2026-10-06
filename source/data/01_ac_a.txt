@@ -1,0 +1,144 @@
+#Haier الرسمي (PK)|https://www.haier.com/pk/service-support/self-service/20160120_103780.shtml
+#Arlington (TCL)|https://www.arlingtonairconditioningheating.com/tcl-air-conditioner-error-codes/
+#Arlington (هايسنس)|https://www.arlingtonairconditioningheating.com/hisense-aircon-error-codes/
+#RemoveAndReplace (سامسونج)|https://removeandreplace.com/2017/08/15/samsung-split-system-air-conditioning-ac-error-codes-and-troubleshooting/
+#Boxt|https://Boxt.co.uk/air-conditioning/guides/samsung-air-conditioning-fault-codes
+@مكيف سبليت|هاير
+E1|عطل حساس حرارة الغرفة||T|O|Haier الرسمي (PK)
+E2|عطل حساس حرارة الماسورة||T|O|Haier الرسمي (PK)
+E4|عطل ذاكرة اللوحة الداخلية (EEPROM)||T|O|Haier الرسمي (PK)
+E5|حماية الوحدة الداخلية من التجمد||U|O|Haier الرسمي (PK)
+E7|خلل تواصل بين الوحدة الداخلية والخارجية||U|O|Haier الرسمي (PK)
+E9|حمل زائد على الوحدة الداخلية في التدفئة||U|O|Haier الرسمي (PK)
+E14|عطل محرك المروحة الداخلية||T|O|Haier الرسمي (PK)
+F1|حماية وحدة الطاقة IPM||T|O|Haier الرسمي (PK)
+F2|حماية من تيار زائد لحظي في الضاغط||T|O|Haier الرسمي (PK)
+F3|خلل تواصل بين وحدة الطاقة واللوحة الرئيسية||T|O|Haier الرسمي (PK)
+F4|حماية من ارتفاع حرارة طرد الضاغط||T|O|Haier الرسمي (PK)
+F6|عطل حساس حرارة الجو الخارجي||T|O|Haier الرسمي (PK)
+F7|عطل حساس حرارة السحب||T|O|Haier الرسمي (PK)
+F8|عطل محرك المروحة DC||T|O|Haier الرسمي (PK)
+F9|إعادة تشغيل وحدة الطاقة||T|O|Haier الرسمي (PK)
+F11|فقدان تزامن الضاغط||T|O|Haier الرسمي (PK)
+F12|عطل ذاكرة اللوحة (EEPROM)||T|O|Haier الرسمي (PK)
+F13|نقص الفريون||T|O|Haier الرسمي (PK)
+F14|فشل تبديل الصمام الرباعي||T|O|Haier الرسمي (PK)
+F19|حماية من ارتفاع أو انخفاض الجهد||T|O|Haier الرسمي (PK)
+F20|حماية الضغط العالي||U|O|Haier الرسمي (PK)
+F21|عطل حساس ملف الوحدة الخارجية||T|O|Haier الرسمي (PK)
+F22|حماية من تيار متردد زائد في الوحدة الخارجية||T|O|Haier الرسمي (PK)
+F23|تيار زائد في أحد أطوار الضاغط||T|O|Haier الرسمي (PK)
+F24|حماية بسبب قراءة تيار غير طبيعية||T|O|Haier الرسمي (PK)
+F25|خلل حساس طرد الضاغط||T|O|Haier الرسمي (PK)
+F27|عطل دائرة قياس تيار الضاغط||T|O|Haier الرسمي (PK)
+F28|عطل دائرة كشف موضع الضاغط||T|O|Haier الرسمي (PK)
+F35|عطل لوحة تشغيل الضاغط||T|O|Haier الرسمي (PK)
+F43|عدم تطابق الموديل||T|O|Haier الرسمي (PK)
+FE|خلل كشف تسريب الفريون||T|O|Haier الرسمي (PK)|مكيفات التردد الثابت
+@مكيف سبليت|TCL
+E0|خلل تواصل بين الوحدة الداخلية والخارجية||U|1|Arlington (TCL)|موقع آخر يعطي قائمة مختلفة كلياً لرموز TCL
+E1|عطل حساس حرارة الغرفة||T|1|Arlington (TCL)
+E2|عطل حساس ماسورة الملف الداخلي||T|1|Arlington (TCL)
+E3|عطل حساس ماسورة الملف الخارجي||T|1|Arlington (TCL)
+E4|خلل في الضغط أو مستوى الفريون||T|1|Arlington (TCL)
+E5|عدم تطابق إعداد الموديل بين الوحدتين||T|1|Arlington (TCL)
+E6|عطل محرك المروحة الداخلية أو انحشار ريشها||T|1|Arlington (TCL)
+E7|عطل حساس حرارة الوحدة الخارجية||T|1|Arlington (TCL)
+E8|عطل حساس حرارة الطرد||T|1|Arlington (TCL)
+E9|عطل وحدة الطاقة IPM||T|1|Arlington (TCL)
+EA|عطل حساس التيار أو تسريب فريون||T|1|Arlington (TCL)
+EC|خلل تواصل داخل لوحة الوحدة الخارجية||T|1|Arlington (TCL)
+EE|تلف شريحة الذاكرة (EEPROM)||T|1|Arlington (TCL)
+EF|عطل محرك المروحة الخارجية DC||T|1|Arlington (TCL)
+EH|عطل حساس حرارة السحب في الوحدة الخارجية||T|1|Arlington (TCL)
+EP|عطل مفتاح الحرارة على الضاغط||T|1|Arlington (TCL)
+EU|عطل حساس الجهد أو توصيله||T|1|Arlington (TCL)
+P0|حماية وحدة الطاقة||T|1|Arlington (TCL)
+P1|حماية من ارتفاع أو انخفاض الجهد||T|1|Arlington (TCL)
+P2|حماية من التيار الزائد||T|1|Arlington (TCL)
+P4|حماية من ارتفاع حرارة الطرد||T|1|Arlington (TCL)
+P5|حماية التبريد الزائد في وضع التبريد||T|1|Arlington (TCL)
+P6|حماية من السخونة في وضع التبريد||U|1|Arlington (TCL)
+P7|حماية من السخونة في وضع التدفئة||U|1|Arlington (TCL)
+P8|حماية من حرارة خارجية أعلى أو أدنى من الحد||N|1|Arlington (TCL)
+P9|حماية برمجية لدائرة التشغيل||T|1|Arlington (TCL)
+@مكيف سبليت|هايسنس
+01|خطأ ذاكرة الوحدة الخارجية (EEPROM)||T|1|Arlington (هايسنس)
+02|فشل إقلاع الضاغط||T|1|Arlington (هايسنس)
+11|خطأ ذاكرة الوحدة الداخلية (EEPROM)||T|1|Arlington (هايسنس)
+13|عطل محرك المروحة الداخلية||T|1|Arlington (هايسنس)
+14|عطل محرك المروحة الخارجية DC||T|1|Arlington (هايسنس)
+20|توصيل سلك المحرك مرتخٍ||T|1|Arlington (هايسنس)
+27|خلل مفتاح الضغط في الوحدة الخارجية||T|1|Arlington (هايسنس)
+33|ارتفاع حرارة طرد الضاغط||T|1|Arlington (هايسنس)
+34|تيار متردد زائد في الضاغط||T|1|Arlington (هايسنس)
+36|خلل تواصل بين الوحدة الداخلية والخارجية||U|1|Arlington (هايسنس)
+38|عطل ذاكرة لوحة الوحدة الخارجية||T|1|Arlington (هايسنس)
+39|فقدان طور في محرك الضاغط||T|1|Arlington (هايسنس)
+41|حماية وحدة الطاقة IPM||T|1|Arlington (هايسنس)
+42|فشل إقلاع دائرة تشغيل الضاغط||T|1|Arlington (هايسنس)
+43|حماية دائرة تصحيح معامل القدرة PFC||T|1|Arlington (هايسنس)
+44|عطل حساس الضغط المنخفض||T|1|Arlington (هايسنس)
+45|عطل وحدة الطاقة IPM||T|1|Arlington (هايسنس)
+46|خلل تواصل وحدة الطاقة IPM||T|1|Arlington (هايسنس)
+47|إيقاف بسبب ارتفاع حرارة الطرد||T|1|Arlington (هايسنس)
+48|عطل المروحة الخارجية DC||T|1|Arlington (هايسنس)
+49|عطل المروحة الخارجية DC||T|1|Arlington (هايسنس)
+91|إيقاف بسبب ارتفاع حرارة وحدة الطاقة IPM||T|1|Arlington (هايسنس)
+92|إيقاف بسبب ارتفاع نسبة الانضغاط||T|1|Arlington (هايسنس)
+97|فشل تبديل الصمام الرباعي||T|1|Arlington (هايسنس)
+E1|خطأ حساس حرارة الغرفة||T|1|Arlington (هايسنس)
+E2|خطأ حساس الملف الداخلي||T|1|Arlington (هايسنس)
+E3|خطأ حساس الملف الخارجي||T|1|Arlington (هايسنس)
+E4|خطأ حساس حرارة الجو الخارجي||T|1|Arlington (هايسنس)
+E5|خطأ حساس طرد الضاغط||T|1|Arlington (هايسنس)
+E6|خلل تواصل بين الوحدة الداخلية والخارجية||U|1|Arlington (هايسنس)
+E8|خطأ محرك المروحة الداخلية||T|1|Arlington (هايسنس)
+E9|خطأ محرك المروحة الخارجية||T|1|Arlington (هايسنس)
+EA|خطأ حساس التيار أو خطأ توصيل||T|1|Arlington (هايسنس)
+EE|عطل الذاكرة (EEPROM)||T|1|Arlington (هايسنس)
+F1|حماية وحدة الطاقة IPM من التيار الزائد||T|1|Arlington (هايسنس)
+F2|حماية وحدة الطاقة IPM من السخونة||T|1|Arlington (هايسنس)
+F3|خطأ تشغيل الضاغط||T|1|Arlington (هايسنس)
+F4|كشف تسريب الفريون||T|1|Arlington (هايسنس)
+F5|حد حماية الضغط العالي||U|1|Arlington (هايسنس)
+F6|حد حماية الضغط المنخفض||T|1|Arlington (هايسنس)
+FE|حماية من ارتفاع أو انخفاض الجهد||T|1|Arlington (هايسنس)
+@مكيف سبليت|سامسونج
+CF|تذكير بتنظيف الفلتر|فلتر الوحدة الداخلية متسخ|U|2|PickHVAC (سامسونج)، Boxt
+dF|وضع إذابة الصقيع التلقائي|يظهر في التدفئة|N|2|PickHVAC (سامسونج)، Boxt
+E101|خطأ تواصل بين الوحدة الداخلية والخارجية||U|2|RemoveAndReplace (سامسونج)، Boxt
+E102|خطأ تواصل بين الوحدة الداخلية والخارجية||U|2|RemoveAndReplace (سامسونج)، Boxt
+E121|خطأ حساس حرارة الغرفة||T|2|RemoveAndReplace (سامسونج)، Boxt
+E122|خطأ حساس ماسورة المبخر في الوحدة الداخلية||T|2|RemoveAndReplace (سامسونج)، Boxt
+E154|خطأ مروحة الوحدة الداخلية||T|2|RemoveAndReplace (سامسونج)، Boxt
+E162|خطأ ذاكرة الوحدة الداخلية (EEPROM)||T|1|RemoveAndReplace (سامسونج)
+E163|خطأ إعداد الخيارات (Option)||T|2|RemoveAndReplace (سامسونج)، Boxt
+E202|خطأ تواصل بين الوحدة الداخلية والخارجية||U|2|RemoveAndReplace (سامسونج)، Boxt
+E203|خطأ تواصل بين المعالج الرئيسي ومعالج الانفرتر||T|2|RemoveAndReplace (سامسونج)، Boxt
+E221|خطأ حساس حرارة الجو الخارجي||T|2|RemoveAndReplace (سامسونج)، Boxt
+E231|خطأ حساس حرارة المكثف||T|2|RemoveAndReplace (سامسونج)، Boxt
+E251|خطأ حساس حرارة الطرد||T|2|RemoveAndReplace (سامسونج)، Boxt
+E416|ارتفاع حرارة الطرد وتوقف الضاغط||T|2|RemoveAndReplace (سامسونج)، Boxt
+E422|غير محسوم|خطأ إغلاق صمام التمدد (RemoveAndReplace)، أو انسداد في المواسير (Boxt)|T|X|RemoveAndReplace (سامسونج)، Boxt
+E440|منع التدفئة لأن الحرارة الخارجية فوق 30|حالة تشغيل وليست عطلاً|N|2|RemoveAndReplace (سامسونج)، Boxt
+E441|منع التبريد لأن الحرارة الخارجية تحت 5 تحت الصفر|حالة تشغيل وليست عطلاً|N|2|RemoveAndReplace (سامسونج)، Boxt
+E458|خطأ مروحة الوحدة الخارجية||T|2|RemoveAndReplace (سامسونج)، Boxt
+E461|فشل إقلاع الضاغط||T|2|RemoveAndReplace (سامسونج)، Boxt
+E462|توقف بسبب حد تيار الدخل||T|2|RemoveAndReplace (سامسونج)، Boxt
+E464|تيار زائد في وحدة الطاقة IPM||T|2|RemoveAndReplace (سامسونج)، Boxt
+E465|حمل زائد على الضاغط||T|2|RemoveAndReplace (سامسونج)، Boxt
+E466|جهد خط التيار المستمر أعلى أو أدنى من الحد||T|2|RemoveAndReplace (سامسونج)، Boxt
+E467|غير محسوم|سلك الضاغط مفقود (RemoveAndReplace)، أو خطأ دوران الضاغط (Boxt)|T|X|RemoveAndReplace (سامسونج)، Boxt
+E468|خطأ حساس التيار||T|2|RemoveAndReplace (سامسونج)، Boxt
+E469|خطأ حساس جهد خط التيار المستمر||T|2|RemoveAndReplace (سامسونج)، Boxt
+E470|خطأ ذاكرة الوحدة الخارجية (EEPROM)||T|2|RemoveAndReplace (سامسونج)، Boxt
+E471|خطأ ذاكرة الوحدة الخارجية (EEPROM)||T|2|RemoveAndReplace (سامسونج)، Boxt
+E474|خطأ حساس المشتت الحراري||T|2|RemoveAndReplace (سامسونج)، Boxt
+E483|حماية من ارتفاع الجهد||T|2|RemoveAndReplace (سامسونج)، Boxt
+E484|حمل زائد على دائرة PFC||T|2|RemoveAndReplace (سامسونج)، Boxt
+E485|خطأ حساس تيار الدخل||T|2|RemoveAndReplace (سامسونج)، Boxt
+E488|خطأ حساس جهد الدخل||T|2|RemoveAndReplace (سامسونج)، Boxt
+E500|ارتفاع حرارة المشتت الحراري لوحدة الطاقة||U|2|RemoveAndReplace (سامسونج)، Boxt
+E554|كشف تسريب غاز||T|2|RemoveAndReplace (سامسونج)، Boxt
+#PickHVAC (سامسونج)|https://www.pickhvac.com/mini-split/error-codes/samsung/
