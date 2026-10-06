@@ -1,31 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://a3tali.com/about</loc></url>
+  <url><loc>https://a3tali.com/ac/carrier</loc></url>
   <url><loc>https://a3tali.com/ac/daikin</loc></url>
   <url><loc>https://a3tali.com/ac/gree-e6</loc></url>
   <url><loc>https://a3tali.com/ac/gree</loc></url>
   <url><loc>https://a3tali.com/ac/haier</loc></url>
+  <url><loc>https://a3tali.com/ac/hisense</loc></url>
   <url><loc>https://a3tali.com/ac/</loc></url>
   <url><loc>https://a3tali.com/ac/lg</loc></url>
+  <url><loc>https://a3tali.com/ac/midea</loc></url>
+  <url><loc>https://a3tali.com/ac/mitsubishi</loc></url>
+  <url><loc>https://a3tali.com/ac/o-general-fujitsu-general</loc></url>
   <url><loc>https://a3tali.com/ac/panasonic</loc></url>
   <url><loc>https://a3tali.com/ac/samsung</loc></url>
+  <url><loc>https://a3tali.com/ac/tcl</loc></url>
+  <url><loc>https://a3tali.com/camcorder/</loc></url>
+  <url><loc>https://a3tali.com/camcorder/sony</loc></url>
+  <url><loc>https://a3tali.com/camera/canon</loc></url>
+  <url><loc>https://a3tali.com/camera/fujifilm</loc></url>
+  <url><loc>https://a3tali.com/camera/</loc></url>
+  <url><loc>https://a3tali.com/camera/nikon</loc></url>
+  <url><loc>https://a3tali.com/camera/sony</loc></url>
+  <url><loc>https://a3tali.com/car/audi</loc></url>
   <url><loc>https://a3tali.com/car/honda</loc></url>
   <url><loc>https://a3tali.com/car/hyundai</loc></url>
   <url><loc>https://a3tali.com/car/</loc></url>
   <url><loc>https://a3tali.com/car/kia</loc></url>
+  <url><loc>https://a3tali.com/car/land-rover</loc></url>
+  <url><loc>https://a3tali.com/car/mercedes-benz</loc></url>
+  <url><loc>https://a3tali.com/car/nissan</loc></url>
   <url><loc>https://a3tali.com/car/toyota</loc></url>
+  <url><loc>https://a3tali.com/caraudio/gm-factory-radio</loc></url>
+  <url><loc>https://a3tali.com/caraudio/</loc></url>
+  <url><loc>https://a3tali.com/caraudio/kenwood</loc></url>
+  <url><loc>https://a3tali.com/caraudio/sony</loc></url>
   <url><loc>https://a3tali.com/cash/hitachi</loc></url>
   <url><loc>https://a3tali.com/cash/</loc></url>
   <url><loc>https://a3tali.com/cash/safescan</loc></url>
+  <url><loc>https://a3tali.com/cctv/dahua</loc></url>
+  <url><loc>https://a3tali.com/cctv/hikvision</loc></url>
+  <url><loc>https://a3tali.com/cctv/</loc></url>
+  <url><loc>https://a3tali.com/central/daikin</loc></url>
+  <url><loc>https://a3tali.com/central/</loc></url>
+  <url><loc>https://a3tali.com/central/mitsubishi</loc></url>
+  <url><loc>https://a3tali.com/central/samsung</loc></url>
   <url><loc>https://a3tali.com/contact</loc></url>
+  <url><loc>https://a3tali.com/copier/canon</loc></url>
+  <url><loc>https://a3tali.com/copier/</loc></url>
+  <url><loc>https://a3tali.com/copier/kyocera</loc></url>
+  <url><loc>https://a3tali.com/copier/ricoh</loc></url>
+  <url><loc>https://a3tali.com/copier/sharp</loc></url>
+  <url><loc>https://a3tali.com/copier/toshiba</loc></url>
+  <url><loc>https://a3tali.com/copier/xerox</loc></url>
+  <url><loc>https://a3tali.com/dishwasher/ariston</loc></url>
+  <url><loc>https://a3tali.com/dishwasher/beko</loc></url>
   <url><loc>https://a3tali.com/dishwasher/bosch</loc></url>
   <url><loc>https://a3tali.com/dishwasher/</loc></url>
   <url><loc>https://a3tali.com/dishwasher/lg</loc></url>
   <url><loc>https://a3tali.com/dishwasher/samsung</loc></url>
+  <url><loc>https://a3tali.com/dishwasher/whirlpool</loc></url>
+  <url><loc>https://a3tali.com/drone/dji</loc></url>
+  <url><loc>https://a3tali.com/drone/</loc></url>
   <url><loc>https://a3tali.com/dryer/bosch</loc></url>
   <url><loc>https://a3tali.com/dryer/</loc></url>
   <url><loc>https://a3tali.com/dryer/lg</loc></url>
   <url><loc>https://a3tali.com/dryer/samsung</loc></url>
+  <url><loc>https://a3tali.com/fridge/haier</loc></url>
+  <url><loc>https://a3tali.com/fridge/hisense</loc></url>
   <url><loc>https://a3tali.com/fridge/</loc></url>
   <url><loc>https://a3tali.com/fridge/lg</loc></url>
   <url><loc>https://a3tali.com/fridge/samsung</loc></url>
@@ -33,25 +75,51 @@
   <url><loc>https://a3tali.com/oven/bosch</loc></url>
   <url><loc>https://a3tali.com/oven/</loc></url>
   <url><loc>https://a3tali.com/oven/lg</loc></url>
+  <url><loc>https://a3tali.com/oven/panasonic</loc></url>
   <url><loc>https://a3tali.com/oven/samsung</loc></url>
+  <url><loc>https://a3tali.com/printer/epson</loc></url>
+  <url><loc>https://a3tali.com/printer/hp</loc></url>
+  <url><loc>https://a3tali.com/printer/</loc></url>
   <url><loc>https://a3tali.com/privacy</loc></url>
+  <url><loc>https://a3tali.com/pump/</loc></url>
+  <url><loc>https://a3tali.com/pump/invt</loc></url>
+  <url><loc>https://a3tali.com/robot/</loc></url>
+  <url><loc>https://a3tali.com/robot/xiaomi</loc></url>
+  <url><loc>https://a3tali.com/solar/axpert-voltronic</loc></url>
   <url><loc>https://a3tali.com/solar/deye</loc></url>
   <url><loc>https://a3tali.com/solar/fronius</loc></url>
   <url><loc>https://a3tali.com/solar/growatt</loc></url>
   <url><loc>https://a3tali.com/solar/huawei</loc></url>
   <url><loc>https://a3tali.com/solar/</loc></url>
+  <url><loc>https://a3tali.com/solar/solax</loc></url>
   <url><loc>https://a3tali.com/solar/victron</loc></url>
   <url><loc>https://a3tali.com/thermal/epson</loc></url>
   <url><loc>https://a3tali.com/thermal/</loc></url>
   <url><loc>https://a3tali.com/thermal/zebra</loc></url>
+  <url><loc>https://a3tali.com/tv/hisense</loc></url>
+  <url><loc>https://a3tali.com/tv/</loc></url>
+  <url><loc>https://a3tali.com/tv/lg</loc></url>
+  <url><loc>https://a3tali.com/tv/sony</loc></url>
+  <url><loc>https://a3tali.com/tv/tcl</loc></url>
+  <url><loc>https://a3tali.com/vfd/abb</loc></url>
   <url><loc>https://a3tali.com/vfd/allen-bradley</loc></url>
+  <url><loc>https://a3tali.com/vfd/danfoss</loc></url>
   <url><loc>https://a3tali.com/vfd/fuji</loc></url>
   <url><loc>https://a3tali.com/vfd/</loc></url>
   <url><loc>https://a3tali.com/vfd/invertek</loc></url>
   <url><loc>https://a3tali.com/vfd/invt</loc></url>
   <url><loc>https://a3tali.com/vfd/mitsubishi</loc></url>
+  <url><loc>https://a3tali.com/vfd/schneider</loc></url>
+  <url><loc>https://a3tali.com/vfd/yaskawa</loc></url>
+  <url><loc>https://a3tali.com/washer/ariston</loc></url>
+  <url><loc>https://a3tali.com/washer/beko</loc></url>
+  <url><loc>https://a3tali.com/washer/bosch</loc></url>
+  <url><loc>https://a3tali.com/washer/haier</loc></url>
   <url><loc>https://a3tali.com/washer/</loc></url>
   <url><loc>https://a3tali.com/washer/lg</loc></url>
+  <url><loc>https://a3tali.com/washer/midea</loc></url>
   <url><loc>https://a3tali.com/washer/samsung</loc></url>
   <url><loc>https://a3tali.com/washer/siemens</loc></url>
+  <url><loc>https://a3tali.com/washer/toshiba</loc></url>
+  <url><loc>https://a3tali.com/washer/whirlpool</loc></url>
 </urlset>
